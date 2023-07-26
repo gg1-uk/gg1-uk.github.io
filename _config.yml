@@ -1,10 +1,10 @@
 # Site
 name: "Mediumish"
 title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+description: "A passionate presale possesses the best mixed of hardware, software, and Cybersecurity knowledge whom appreciate and talk the same language with user at all levels"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /mediumish-theme-jekyll
+baseurl: /
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -14,22 +14,22 @@ permalink: /:title/
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: Don
+    display_name: Don
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    web: https://donchai.com
+    twitter: https://twitter.com/donchaitw
+    description: "Demonstrate competence and ability to design, certify, implement, manage, secure physical/cloud project of all size and complexity based on an extensive exposure in infrastructure, application development/management, and Cybersecurity experiences notably on Azure/F5 security solutions."
   john:
-    name: John
-    display_name: John    
+    name: Chai
+    display_name: Chai    
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    web: https://donchai.com
+    twitter: https://twitter.com/donchaitw
+    description: "Demonstrate competence and ability to design, certify, implement, manage, secure physical/cloud project of all size and complexity based on an extensive exposure in infrastructure, application development/management, and Cybersecurity experiences notably on Azure/F5 security solutions."
 
 # Plugins
 plugins:
