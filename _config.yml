@@ -13,7 +13,7 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
+  don:
     name: Don
     display_name: Don
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
@@ -21,7 +21,7 @@ authors:
     web: https://donchai.com
     twitter: https://twitter.com/donchaitw
     description: "Demonstrate competence and ability to design, certify, implement, manage, secure physical/cloud project of all size and complexity based on an extensive exposure in infrastructure, application development/management, and Cybersecurity experiences notably on Azure/F5 security solutions."
-  john:
+  chai:
     name: Chai
     display_name: Chai    
     avatar: 'assets/images/avatar.png'
