@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Don Chai
+title: About
 permalink: /about
 comments: true
 ---
