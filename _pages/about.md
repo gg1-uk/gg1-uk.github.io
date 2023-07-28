@@ -10,10 +10,10 @@ comments: true
 
 <p>This website donchai.com is maintain by 辉 and made possible by Github Pages with Jekyll and Mediumish template, which hosted on Github for coding and stories sharing purposes.</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/DonChaiBG.png" alt="jekyll template mediumish" /></p>
 <h4>Don Chai</h4>
 
-<P>Don started his first career as FIMMS Technician in an US-based hard disk drive manufacturer company, and latest as a Solutions Engineer in F5.</p>
+<P>Don started his first career as FIMMS Technician in Western Digital, and latest as a Solutions Engineer in F5.</p>
 
 <h4>Acedemic</h4>
 
@@ -21,19 +21,17 @@ comments: true
 
 <h4>Certification</h4>
 
-<p>
-ITIL Foundation
-ITIL Intermediate in IT Operational Support and Analysis
-ITIL Intermediate in IT Service Design
-Aviatrix Multi-Cloud Networking Associate
-Aviatrix Multi-Cloud Networking Operations
-Aviatrix Multi-Cloud Networking Professional
-AWS Business Professional
-AWS Certified Solutions Architect - Professional
-Microsoft Certified: Azure Solutions Architect Expert
-Microsoft Certified: Azure Security Engineer Associate
-F5 Technical Sales Professional
-</p>
+<p>ITIL Foundation</p>
+<p>ITIL Intermediate in IT Operational Support and Analysis</p>
+<p>ITIL Intermediate in IT Service Design</p>
+<p>Aviatrix Multi-Cloud Networking Associate</p>
+<p>Aviatrix Multi-Cloud Networking Operations</p>
+<p>Aviatrix Multi-Cloud Networking Professional</p>
+<p>AWS Business Professional</p>
+<p>AWS Certified Solutions Architect - Professional</p>
+<p>Microsoft Certified: Azure Solutions Architect Expert</p>
+<p>Microsoft Certified: Azure Security Engineer Associate</p>
+<p>F5 Technical Sales Professional</p>
 
 </div>
 
