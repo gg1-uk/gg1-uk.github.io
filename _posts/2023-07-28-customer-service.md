@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Inception Movie"
+title:  "旅行的乐趣"
 author: chai
-categories: [ Jekyll, tutorial ]
+categories: [ travel, family ]
 tags: [red, yellow]
 image: assets/images/11.jpg
-description: "My review of Inception movie. Acting, plot and something else in this short description."
+description: "行万里来看你."
 featured: true
 hidden: true
 rating: 4.5

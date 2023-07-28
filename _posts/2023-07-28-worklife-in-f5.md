@@ -2,7 +2,7 @@
 layout: post
 title:  "Let's test spoilers"
 author: don
-categories: [ Jekyll, tutorial ]
+categories: [ work, cybersecurity ]
 image: assets/images/12.jpg
 featured: true
 hidden: true
