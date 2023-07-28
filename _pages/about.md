@@ -8,7 +8,7 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website donchai.com is maintain by 辉 and made possible by Github Pages with Jekyll and Mediumish template, which hosted on Github for coding and stories sharing purposes.</p>
+<p>This website donchai.com is maintain by 辉 and made possible by Github Pages, Jekyll with Mediumish template, which hosted on Github for coding and stories sharing purposes.</p>
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/DonChaiBG.png" alt="Don Chai is a coder" /></p>
 
 <h4>Career</h4>
