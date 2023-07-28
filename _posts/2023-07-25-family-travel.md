@@ -3,7 +3,7 @@ layout: post
 title:  "旅行的乐趣"
 author: chai
 categories: [ family, travel ]
-tags: [red, yellow]
+tags: [旅行]
 image: assets/images/11.jpg
 description: "行万里来看你."
 featured: true
