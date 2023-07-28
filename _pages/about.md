@@ -42,7 +42,7 @@ F5 Solutions Engineer Award - 2022</p>
 <div class="sticky-top sticky-top-80">
 <h5>Buy me a coffee</h5>
 
-<p>Thank you for your support! Your coffee treat keeps me awake coding stories and maintain <a target="_blank" href="https://github.com/donchai/donchai.github.io">donchai.com <i class="fab fa-github"></i></a>.</p>
+<p>Thank you for your support! Your coffee treat energizes and keeps me coding stories and maintain <a target="_blank" href="https://github.com/donchai/donchai.github.io">donchai.com <i class="fab fa-github"></i></a>.</p>
 
 <a target="_blank" href="https://www.buymeacoffee.com/donchai" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://github.com/donchai" class="btn btn-warning">Github Repo</a>
 
