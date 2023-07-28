@@ -13,7 +13,7 @@ comments: true
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/DonChaiBG.png" alt="Don Chai is a coder" /></p>
 <h4>Don Chai</h4>
 
-<P>Don started his first career as FIMMS Technician in Western Digital, and latest as a Solutions Engineer in F5.</p>
+<P>Don started his first career as a FIMMS Technician in Western Digital, and latest as a Solutions Engineer in F5.</p>
 
 <h4>Acedemic</h4>
 
@@ -21,17 +21,23 @@ comments: true
 
 <h4>Certification</h4>
 
-<p>ITIL Foundation</p>
-<p>ITIL Intermediate in IT Operational Support and Analysis</p>
-<p>ITIL Intermediate in IT Service Design</p>
-<p>Aviatrix Multi-Cloud Networking Associate</p>
-<p>Aviatrix Multi-Cloud Networking Operations</p>
-<p>Aviatrix Multi-Cloud Networking Professional</p>
-<p>AWS Business Professional</p>
-<p>AWS Certified Solutions Architect - Professional</p>
-<p>Microsoft Certified: Azure Solutions Architect Expert</p>
-<p>Microsoft Certified: Azure Security Engineer Associate</p>
-<p>F5 Technical Sales Professional</p>
+<p>ITIL Foundation<br>
+ITIL Intermediate in IT Operational Support and Analysis<br>
+ITIL Intermediate in IT Service Design<br>
+Aviatrix Multi-Cloud Networking Associate<br>
+Aviatrix Multi-Cloud Networking Operations<br>
+Aviatrix Multi-Cloud Networking Professional<br>
+AWS Business Professional<br>
+AWS Certified Solutions Architect - Professional<br>
+Microsoft Certified: Azure Solutions Architect Expert<br>
+Microsoft Certified: Azure Security Engineer Associate<br>
+F5 Technical Sales Professional</p>
+
+<h4>Accolate</h4>
+
+<p>Equinix Service Star Award - 2006<br>
+Savvis Innovative Award - 2013<br>  
+F5 Solutions Engineer Award - 2022</p>
 
 </div>
 
