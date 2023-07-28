@@ -19,6 +19,22 @@ comments: true
 
 <p>First obtained a Diploma in Computer Studies from NCC International, and latest a Msc in Knowledge Management from Nanyang Technological University.</p>
 
+<h4>Certification</h4>
+
+<p>
+ITIL Foundation
+ITIL Intermediate in IT Operational Support and Analysis
+ITIL Intermediate in IT Service Design
+Aviatrix Multi-Cloud Networking Associate
+Aviatrix Multi-Cloud Networking Operations
+Aviatrix Multi-Cloud Networking Professional
+AWS Business Professional
+AWS Certified Solutions Architect - Professional
+Microsoft Certified: Azure Solutions Architect Expert
+Microsoft Certified: Azure Security Engineer Associate
+F5 Technical Sales Professional
+</p>
+
 </div>
 
 <div class="col-md-4">
