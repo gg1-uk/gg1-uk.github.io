@@ -10,7 +10,7 @@ comments: true
 
 <p>This website donchai.com is maintain by 辉 and made possible by Github Pages with Jekyll and Mediumish template, which hosted on Github for coding and stories sharing purposes.</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/DonChaiBG.png" alt="jekyll template mediumish" /></p>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/DonChaiBG.png" alt="Don Chai is a coder" /></p>
 <h4>Don Chai</h4>
 
 <P>Don started his first career as FIMMS Technician in Western Digital, and latest as a Solutions Engineer in F5.</p>
