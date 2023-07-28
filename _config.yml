@@ -18,19 +18,19 @@ authors:
     name: Don
     display_name: Don
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
+    email: admin@donchai.com
     web: https://donchai.com
     twitter: https://twitter.com/donchaitw
-    description: "A passionate cybersecurity presale."
+    description: "A passionate cybersecurity presale, an avid knowledge work>_cod>_er."
   chai:
     name: 辉
     display_name: 辉    
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
+    email: 辉@donchai.com
     web: https://donchai.com
     twitter: https://twitter.com/donchaitw
-    description: "A passionate cybersecurity presale."
+    description: "热诚的网络安全预售员，热忱的知识工作>_程序>_员."
 
 # Plugins
 plugins:
