@@ -18,18 +18,18 @@ comments: true
 <p>First obtained a Diploma in Computer Studies from NCC International, and latest a Msc in Knowledge Management from Nanyang Technological University.</p>
 
 <h4>Certification</h4>
-<i class="fa-thin fa-certificate fa-2xs"></i>ITIL Foundation<br>
-<i class="fa-thin fa-certificate fa-2xs"></i>ITIL Intermediate in IT Service Design<br>
-<i class="fa-thin fa-certificate fa-2xs"></i>ITIL Intermediate in IT Operational Support and Analysis<br>
-<i class="fa-thin fa-certificate fa-2xs"></i>Aviatrix Multi-Cloud Networking Associate<br>
-<i class="fa-thin fa-certificate fa-2xs"></i>Aviatrix Multi-Cloud Networking Operations<br>
-<i class="fa-thin fa-certificate fa-2xs"></i>Aviatrix Multi-Cloud Networking Professional<br>
-<i class="fa-thin fa-certificate fa-2xs"></i>AWS Business Professional<br>
-<i class="fa-thin fa-certificate fa-2xs"></i>AWS Certified Solutions Architect - Professional<br>
-<i class="fa-thin fa-certificate fa-2xs"></i>Microsoft Certified: Azure Solutions Architect Expert<br>
-<i class="fa-thin fa-certificate fa-2xs"></i>Microsoft Certified: Azure Security Engineer Associate<br>
-<i class="fa-thin fa-certificate fa-2xs"></i>F5 Technical Sales Professional
-
+<i class="fa-regular fa-square-check" style="color: #81858d;"></i>ITIL Foundation<br>
+<i class="fa-regular fa-square-check" style="color: #81858d;"></i>ITIL Intermediate in IT Service Design<br>
+<i class="fa-regular fa-square-check" style="color: #81858d;"></i>ITIL Intermediate in IT Operational Support and Analysis<br>
+<i class="fa-regular fa-square-check" style="color: #81858d;"></i>Aviatrix Multi-Cloud Networking Associate<br>
+<i class="fa-regular fa-square-check" style="color: #81858d;"></i>Aviatrix Multi-Cloud Networking Operations<br>
+<i class="fa-regular fa-square-check" style="color: #81858d;"></i>Aviatrix Multi-Cloud Networking Professional<br>
+<i class="fa-regular fa-square-check" style="color: #81858d;"></i>AWS Business Professional<br>
+<i class="fa-regular fa-square-check" style="color: #81858d;"></i>AWS Certified Solutions Architect - Professional<br>
+<i class="fa-regular fa-square-check" style="color: #81858d;"></i>Microsoft Certified: Azure Solutions Architect Expert<br>
+<i class="fa-regular fa-square-check" style="color: #81858d;"></i>Microsoft Certified: Azure Security Engineer Associate<br>
+<i class="fa-regular fa-square-check" style="color: #81858d;"></i>F5 Technical Sales Professional<br>
+<br>
 <h4>Accolate</h4>
 <p>Equinix Service Star Award - 2006<br>
 Savvis Innovative Award - 2013<br>  
