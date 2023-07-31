@@ -19,8 +19,8 @@ comments: true
 
 <h4>Certification</h4>
 <i class="far fa-address-card" style="color: #81858d;"></i> ITIL Foundation<br>
-<i class="far fa-square-check" style="color: #81858d;"></i>ITIL Intermediate in IT Service Design<br>
-<i class="fa-regular fa-square-check" style="color: #81858d;"></i>ITIL Intermediate in IT Operational Support and Analysis<br>
+<i class="far fa-square-check" style="color: #81858d;"></i> ITIL Intermediate in IT Service Design<br>
+<i class="fa-solid fa-certificate" style="color: ##81858d;"></i> ITIL Intermediate in IT Operational Support and Analysis<br>
 <i class="fa-regular fa-square-check" style="color: #81858d;"></i>Aviatrix Multi-Cloud Networking Associate<br>
 <i class="fa-regular fa-square-check" style="color: #81858d;"></i>Aviatrix Multi-Cloud Networking Operations<br>
 <i class="fa-regular fa-square-check" style="color: #81858d;"></i>Aviatrix Multi-Cloud Networking Professional<br>
