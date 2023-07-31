@@ -18,7 +18,7 @@ comments: true
 <p>First obtained a Diploma in Computer Studies from NCC International, and latest a Msc in Knowledge Management from Nanyang Technological University.</p>
 
 <h4>Certification</h4>
-<i class="fa-regular fa-square-check" style="color: #81858d;"></i>ITIL Foundation<br>
+<i class="far fa-address-card" style="color: #81858d;"></i> ITIL Foundation<br>
 <i class="fa-regular fa-square-check" style="color: #81858d;"></i>ITIL Intermediate in IT Service Design<br>
 <i class="fa-regular fa-square-check" style="color: #81858d;"></i>ITIL Intermediate in IT Operational Support and Analysis<br>
 <i class="fa-regular fa-square-check" style="color: #81858d;"></i>Aviatrix Multi-Cloud Networking Associate<br>
