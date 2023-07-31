@@ -17,6 +17,7 @@ authors:
   don:
     name: Don
     display_name: Don
+    avatar: 'assets/images/DonChaiIcon.png'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: admin@donchai.com
     web: https://donchai.com
@@ -25,7 +26,7 @@ authors:
   chai:
     name: 辉
     display_name: 辉    
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/HuiIcon.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: 辉@donchai.com
     web: https://donchai.com
