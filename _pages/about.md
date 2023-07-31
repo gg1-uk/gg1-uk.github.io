@@ -13,7 +13,7 @@ comments: true
 
 <h4>Career</h4>
 <p>Don started his first career as a FIMMS Technician in Western Digital, and latest as a Solutions Engineer in F5.</p>
-
+<br>
 <h4>Acedemic</h4>
 <p>First obtained a Diploma in Computer Studies from NCC International, and latest a Msc in Knowledge Management from Nanyang Technological University.</p>
 <br>
