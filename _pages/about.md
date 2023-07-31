@@ -24,8 +24,8 @@ comments: true
 <i class="fa-brands fa-microsoft" style="color: #81858d;"></i> Aviatrix Multi-Cloud Networking Associate<br>
 <i class="fa-regular fa-square-check" style="color: #81858d;"></i> Aviatrix Multi-Cloud Networking Operations<br>
 <i class="fa-regular fa-square-check" style="color: #81858d;"></i> Aviatrix Multi-Cloud Networking Professional<br>
-<i class="fa-regular fa-square-check" style="color: #81858d;"></i> AWS Business Professional<br>
-<i class="fa-regular fa-square-check" style="color: #81858d;"></i> AWS Certified Solutions Architect - Professional<br>
+<i class="fa-brands fa-aws" style="color: #81858d;"></i> AWS Business Professional<br>
+<i class="fa-brands fa-aws" style="color: #81858d;"></i> AWS Certified Solutions Architect - Professional<br>
 <i class="fa-brands fa-microsoft" style="color: #81858d;"></i> Microsoft Certified: Azure Solutions Architect Expert<br>
 <i class="fa-brands fa-microsoft" style="color: #81858d;"></i> Microsoft Certified: Azure Security Engineer Associate<br>
 <i class="fa-regular fa-square-check" style="color: #81858d;"></i> F5 Technical Sales Professional<br>
