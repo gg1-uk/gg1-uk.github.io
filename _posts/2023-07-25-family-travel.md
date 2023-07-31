@@ -4,7 +4,7 @@ title:  "旅行的乐趣"
 author: chai
 categories: [ family-travel ]
 tags: [家庭-旅行]
-image: assets/images/australia2019/tulip.jpg
+image: assets/images/australia2019/islandsnap.jpg
 description: "行万里来看你和吃喝玩乐"
 featured: true
 hidden: true
