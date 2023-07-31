@@ -34,7 +34,7 @@ comments: true
 <p>Equinix Service Star Award - 2006<br>
 Savvis Innovative Award - 2013<br>  
 F5 Solutions Engineer Award - 2022</p>
-
+<br>
 </div>
 
 <div class="col-md-4">
