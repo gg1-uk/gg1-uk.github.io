@@ -29,6 +29,7 @@ comments: true
 <i class="far fa-address-card" style="color: #81858d;"></i> Microsoft Certified: Azure Solutions Architect Expert<br>
 <i class="far fa-address-card" style="color: #81858d;"></i> Microsoft Certified: Azure Security Engineer Associate<br>
 <i class="far fa-address-card" style="color: #81858d;"></i> F5 Technical Sales Professional<br>
+<i class="far fa-address-card" style="color: #81858d;"></i> F5 Technical Modern Apps Specialist<br>
 <br>
 <h4>Accolate</h4>
 <p>Equinix Service Star Award - 2006<br>
