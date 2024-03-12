@@ -5,7 +5,7 @@ description: "Endpoint eXtended Managed Detection and Response"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
-url: 'https://exmdr.com'
+url: 'http://exmdr.com'
 google_analytics: 'UA-46278016-1'
 disqus: 'donchai'
 mailchimp-list: 'https://donchai.us21.list-manage.com/subscribe/post?u=2a5a41a9ed1a581d598be33c7&amp;id=c71715a0af&amp;f_id=00e55fe1f0'
