@@ -8,7 +8,7 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website donchai.com is maintain by Don Chai and made possible by Github Pages, Jekyll with Mediumish template, which hosted on Github for coding and content sharing purposes related to Endpoint (E) eXtended (X) Managed (M) Detection (D) and Response (R).</p>
+<p>Endpoint (E) eXtended (X) Managed (M) Detection (D) and Response (R).</p>
 
 <h4>Endpoint Detection and Response (EDR)</h4>
 <p>Endpoint, can be physical or virtual devices/machine connected to network such as mobile device, internet of thing, desktop, laptop, or server. EDR is a solution continuously monitors logs from endpoints for evidence of threats and performs automatic actions to help mitigate the risks of system/credential exploitation, data exfiltration, ransomware attack, and so on.</p>
@@ -19,6 +19,7 @@ comments: true
 <h4>Managed Detection and Response (MDR)</h4>
 <p>MDR.</p>
 <br>
+<p>This website exmdr.com is maintain by Don Chai and made possible by Github Pages, Jekyll with Mediumish template, which hosted on Github for coding and content sharing purposes related to Endpoint (E) eXtended (X) Managed (M) Detection (D) and Response (R).</p>
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/DonChaiBG.png" alt="Don Chai is a coder" /></p>
 </div>
 
