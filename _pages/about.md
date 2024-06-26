@@ -12,13 +12,13 @@ comments: true
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/DonChaiBG.png" alt="Don Chai is a coder" /></p>
 
 <h4>Endpoint Detection and Response (EDR)</h4>
-<p>Endpoint, can be physical or virtual devices/machine connected to network such as mobile device, internet of thing, desktop, laptop, or server. EDR is a solution continuously monitors endpoints for evidence of threats and performs automatic actions to help mitigate the risks of system/credential exploitation, data exfiltration, ransomware attack, and so on.</p>
+<p>Endpoint, can be physical or virtual devices/machine connected to network such as mobile device, internet of thing, desktop, laptop, or server. EDR is a solution continuously monitors logs from endpoints for evidence of threats and performs automatic actions to help mitigate the risks of system/credential exploitation, data exfiltration, ransomware attack, and so on.</p>
 <br>
 <h4>Extended Detection and Response (XDR)</h4>
-<p>Extended.</p>
+<p>XDR, is a solution continuously monitors logs from enterprise-wide systems such as endpoints, hybrid identities, cloud applications and workloads, email, data stores, which harness on the power of AI and automation to help mitigate the evolving cyberthreat landscape and complex security challenges.</p>
 <br>
 <h4>Managed Detection and Response (MDR)</h4>
-<p>Managed.</p>
+<p>MDR.</p>
 <br>
 </div>
 
