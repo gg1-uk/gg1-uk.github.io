@@ -11,7 +11,7 @@ comments: false
 <p>(E)ndpoint e(X)tended (M)anaged (D)etection and (R)esponse.</p>
 
 <h4>Endpoint Detection and Response (EDR)</h4>
-<p>Endpoint, can be physical or virtual devices/machine connected to network such as mobile device, internet of thing, desktop, laptop, or server. EDR, is a solution continuously monitors logs from endpoints for evidence of threats and performs automatic actions to help mitigate the risks of system/credential exploitation, data exfiltration, ransomware attack, and so on.</p>
+<p>Endpoint, can be the physical or virtual devices or machines connected to network such as mobile device, internet of thing, desktop, laptop, or server. EDR, is a solution continuously monitors logs from endpoints for evidence of threats and performs automatic actions to help mitigate the risks of system or credential exploitation, data exfiltration, ransomware attack, and so on.</p>
 <br>
 <h4>Extended Detection and Response (XDR)</h4>
 <p>XDR, is a solution continuously monitors logs from enterprise-wide systems such as endpoints, hybrid identities, cloud applications and workloads, email, data stores, which harness on the power of AI and automation to help address and mitigate the evolving cyberthreat landscape and complex security challenges.</p>
