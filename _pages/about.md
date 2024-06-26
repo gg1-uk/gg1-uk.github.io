@@ -27,7 +27,7 @@ comments: false
 <div class="sticky-top sticky-top-80">
 <h5>Buy me a coffee</h5>
 
-<p>Thank you for your support! Your coffee treat energizes and keeps me coding case studies and maintain <a target="_blank" href="https://exmdr.com">exmdr.com <i class="fab fa-github"></i></a>.</p>
+<p>Thank you for your support! Your coffee treat energizes and keeps me coding case studies and maintain <a target="_blank" href="https://exmdr.com">exmdr.com</a>.</p>
 
 <a target="_blank" href="https://www.buymeacoffee.com/donchai" class="btn btn-danger">Buy me a coffee</a>
 
