@@ -17,7 +17,7 @@ comments: false
 <p>XDR, is a solution continuously monitors logs from enterprise-wide systems such as endpoints, hybrid identities, cloud applications and workloads, email, data stores, which harness on the power of AI and automation to help address and mitigate the evolving cyberthreat landscape and complex security challenges.</p>
 <br>
 <h4>Managed Detection and Response (MDR)</h4>
-<p>MDR, is a solution to provide outsourced managed security service for clients to look after their security operations center (SOC) with defined scope of services and responsibilities, which helps client with a piece of mind 24x7x365 efficient and effective security incident detection and response management.</p>
+<p>MDR, is a solution providing outsourced managed security service for clients to look after their security operations center (SOC) with defined scope of services and responsibilities, which helps client with a piece of mind 24x7x365 efficient and effective security incident detection and response management.</p>
 <br>
 <p>This website exmdr.com is maintain by Don Chai for coding and case studies sharing purposes related to EDR, XDR, and MDR. All contents shared on this website is based of one's own accord and neither affiliate nor associate to any organisation or product.</p>
 <br>
