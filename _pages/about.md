@@ -8,7 +8,7 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>Endpoint (E) eXtended (X) Managed (M) Detection (D) and Response (R).</p>
+<p>(E)ndpoint e(X)tended (M)anaged (D)etection and (R)esponse.</p>
 
 <h4>Endpoint Detection and Response (EDR)</h4>
 <p>Endpoint, can be physical or virtual devices/machine connected to network such as mobile device, internet of thing, desktop, laptop, or server. EDR is a solution continuously monitors logs from endpoints for evidence of threats and performs automatic actions to help mitigate the risks of system/credential exploitation, data exfiltration, ransomware attack, and so on.</p>
@@ -28,7 +28,7 @@ comments: true
 <div class="sticky-top sticky-top-80">
 <h5>Buy me a coffee</h5>
 
-<p>Thank you for your support! Your coffee treat energizes and keeps me coding stories and maintain <a target="_blank" href="https://github.com/donchai/donchai.github.io">donchai.com <i class="fab fa-github"></i></a>.</p>
+<p>Thank you for your support! Your coffee treat energizes and keeps me coding case studies and maintain <a target="_blank" href="https://github.com/donchai/donchai.github.io">exmdr.com <i class="fab fa-github"></i></a>.</p>
 
 <a target="_blank" href="https://www.buymeacoffee.com/donchai" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://github.com/donchai" class="btn btn-warning">Github Repo</a>
 
