@@ -19,7 +19,7 @@ comments: true
 <h4>Managed Detection and Response (MDR)</h4>
 <p>MDR, is a solution to provide outsourced managed security service for clients to look after their security operations center (SOC) with defined scope of services and responsibilities, which helps client with a piece of mind 24x7x365 efficient and effective security incident detection and response management.</p>
 <br>
-<p>This website exmdr.com is maintain by Don Chai and made possible by Github Pages, Jekyll with Mediumish template, which hosted on Github for coding and case studies sharing purposes related to EDR, XDR, and MDR. All contents shared from this website is based on personal opinion and neither affiliate nor associate to any organisation or product.</p>
+<p>This website exmdr.com is maintain by Don Chai for coding and case studies sharing purposes related to EDR, XDR, and MDR. All contents shared on this website is based of one's own accord and neither affiliate nor associate to any organisation or product.</p>
 </div>
 
 <div class="col-md-4">
@@ -29,7 +29,7 @@ comments: true
 
 <p>Thank you for your support! Your coffee treat energizes and keeps me coding case studies and maintain <a target="_blank" href="https://exmdr.com">exmdr.com <i class="fab fa-github"></i></a>.</p>
 
-<a target="_blank" href="https://www.buymeacoffee.com/donchai" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://github.com/exmdr" class="btn btn-warning">Github Repo</a>
+<a target="_blank" href="https://www.buymeacoffee.com/donchai" class="btn btn-danger">Buy me a coffee</a>
 
 </div>
 </div>
