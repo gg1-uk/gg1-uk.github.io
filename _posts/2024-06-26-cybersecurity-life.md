@@ -12,7 +12,7 @@ It marks my fist work anniversary for an industry leading global managed service
 
 <span class="spoiler">NTT DATA, a multinational corporation,</span> is a global managed services provider.
 
-#### My daily job
+#### What keep on exciting
 MDR
 
 #### What keep me exciting
