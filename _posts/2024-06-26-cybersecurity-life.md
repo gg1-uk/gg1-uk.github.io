@@ -23,9 +23,9 @@ EXMDR
 
 #### My self paced tracker
 Relevant sales certifications since 2023 till date<br>
-MDR F2F CM Empowerment in HK<br>
 MDR Showcase at GovWare 2023<br>
 MDR Discovery at F5 AppWorld 2024<br>
+MDR F2F CM Empowerment in HK<br>
 1x cybersecurity certification on June 2024<br>
 2x community service since 2023 till date
 
