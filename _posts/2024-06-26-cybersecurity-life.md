@@ -24,7 +24,7 @@ EXMDR
 #### My self paced tracker
 Relevant sales certifications since 2023 till date<br>
 MDR Showcase at GovWare 2023<br>
-MDR Showcase at F5 AppWorld 2024<br>
+MDR Discovery at F5 AppWorld 2024<br>
 1x cybersecurity certification on June 2024<br>
 2x community service since 2023 till date
 
