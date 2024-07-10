@@ -21,8 +21,14 @@ This case study focuses on the `resiliency features` of the two native software 
  
 The test components and scenarios below.
 
-1. Windows Server 2019 Standard with Azure Connected Machine Agent
-2. Ubuntu Server 22.04.4 with Azure Connected Machine Agent
++ Windows Server 2019 Standard with Azure Connected Machine Agent
++ Ubuntu Server 22.04.4 with Azure Connected Machine Agent
++ Microsoft Sentinel
+  + Log Analytics Workspace
+  + Syslog via AMA data connector
+  + Data Collection Rule for Syslog for Azure Arc Machine
+  + Data Collection Rule for Windows Event Log for Azure Arc Machine
++ Internet Connectivity
 
 ![walking](/assets/images/australia2019/island.jpg)
 
