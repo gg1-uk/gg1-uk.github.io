@@ -8,7 +8,7 @@ featured: true
 hidden: true
 ---
 
-Often time, we are hearing from our client on topic and know-how addressing security log ingestion capable to sustain intermittent or periodic network connectivity failure.
+Often time, we are hearing from our client on topic vis-a-vis know-how addressing security log ingestion capable to sustain intermittent or periodic network connectivity failure.
 
 This case study focus on the resiliency features of two native software agents purpose-built to handle ingestion of the security logs from on-premises systems to Microsoft Sentinel, which attesting the sustainability in term of retry mechanism during temporary or prolong network connectivity downtime.
 
