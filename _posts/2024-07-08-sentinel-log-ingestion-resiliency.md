@@ -13,7 +13,7 @@ toc: true
 ### Survival rule
 Often time, we are hearing from our client on topic vis-a-vis know-how addressing security log ingestion capable of surviving intermittent or periodic network connectivity failure. 
 
-To be fair, this is a valid and crucial concerns for client as part of the architectural design consideration and business as usual risk awareness, all in all ensuring there is no loss of security logs in the event of connection failure.
+Honestly, this is a valid and crucial concerns for client as part of the architectural design consideration and business as usual risk awareness, all in all ensuring there is no loss of security logs in the event of connection failure.
 
 ### Endurance test
 This case study focuses on the `resiliency features` of the two native software agents purpose-built to handle ingestion of the security logs from on-premises operating systems to Microsoft Sentinel, which attesting the resiliency in term of `retry mechanism` during temporary or prolong network connectivity downtime.
