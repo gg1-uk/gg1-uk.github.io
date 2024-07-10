@@ -6,9 +6,9 @@ categories: [ sentinel ]
 image: assets/images/australia2019/island.jpg
 featured: true
 hidden: true
+beforetoc: "Often time, we are hearing from our client on topic vis-a-vis know-how addressing security log ingestion capable of sustaining intermittent or periodic network connectivity failure."
+toc: true
 ---
-
-Often time, we are hearing from our client on topic vis-a-vis know-how addressing security log ingestion capable of sustaining intermittent or periodic network connectivity failure.
 
 This case study focus on the resiliency features of the two native software agents purpose-built to handle ingestion of the security logs from on-premises operating systems to Microsoft Sentinel, which attesting the sustainability in term of retry mechanism during temporary or prolong network connectivity downtime.
 
