@@ -6,7 +6,7 @@ categories: [ sentinel ]
 image: assets/images/australia2019/island.jpg
 featured: true
 hidden: true
-beforetoc: "Read/watch time: 3/10 minutes, updated 10-07-24 9:21pm"
+beforetoc: "Read/watch time: 3/10 minutes, updated 11-07-24 12:18am live"
 toc: true
 ---
 
