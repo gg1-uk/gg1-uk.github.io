@@ -16,13 +16,13 @@ Often time, we are hearing from our client on topic vis-a-vis know-how addressin
 ### Endurance test
 This case study focus on the `resiliency features` of the two native software agents purpose-built to handle ingestion of the security logs from on-premises operating systems to Microsoft Sentinel, which attesting the sustainability in term of `retry mechanism` during temporary or prolong network connectivity downtime.
 
-### The test kits
-> The eco-friendly way, a nano box was powered-on alongsides 6-month licensed Windows Server 2019 Standard with hyper-v activated Ubuntu Server 22.04.4 LTS up and running. This test aimed to survive target 3 to 7 days long 24x7 uptimes.
+### The test coverage
+> The eco-friendly way, a nano box was powered-on alongsides 6-month licensed Windows Server 2019 Standard with Hyper-V virtualized Ubuntu Server 22.04.4 LTS up and running. This test aimed to survive target 3 to 7 days long 24x7 uptimes.
  
-The two main operating systems were tested below.
+The test components and scenarios below.
 
-1. Windows Server 2019
-2. Ubuntu Server
+1. Windows Server 2019 Standard with Azure Connected Machine Agent
+2. Ubuntu Server 22.04.4 with Azure Connected Machine Agent
 
 ![walking](/assets/images/australia2019/island.jpg)
 
