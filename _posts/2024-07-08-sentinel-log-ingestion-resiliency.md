@@ -38,7 +38,7 @@ The test scenarios below.
   + What happened if the connectivity downtime more than 8.5 hours as maximum downtime allowed with security log's data less than 1.5 GB, can the logs re-transmission survived?
 + Ubuntu Server 22.04.4 with Azure Connected Machine Agent suffering a 3 days network connectivity downtime
   + Let's see how long the logs survive depend on the disk storage size as per Microsoft official <a href="https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-troubleshoot-linux-vm-rsyslog#:~:text=Azure%20Monitor%20Agent%20uses%20local%20persistency%20by%20default
- ">guideline</a> and let's proof it to be trued
+ ">guideline</a> and let's prove it to be trued
 
 ![walking](/assets/images/australia2019/island.jpg)
 
