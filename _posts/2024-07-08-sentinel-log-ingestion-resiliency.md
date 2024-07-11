@@ -103,9 +103,9 @@ This case study focuses on the `resiliency features` of the two native software 
 </tfoot>
 <tbody align="center">
 <tr>
+<td><img src="/assets/images/azure/AzureArcAgentInstallationWindows.png"></td>
+<td></td>
 <td><img src="/assets/images/azure/AzureArcMachinesView.png"></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
