@@ -103,31 +103,31 @@ This case study focuses on the `resiliency features` of the two native software 
 </tfoot>
 <tbody align="center">
 <tr>
-<td>Windows Agent Install Script<img src="/assets/images/logingest/AzureArcAgentInstallationWindows.png"></td>
-<td>Windows Scheduler Event Write Every 5mins<img src="/assets/images/logingest/Scheduler5minWrite.png"></td>
+<td><p style="font-size:12px;">Windows Agent Install Script</p><img src="/assets/images/logingest/AzureArcAgentInstallationWindows.png"></td>
+<td><p style="font-size:12px;">Windows Scheduler Event Write Every 5mins</p><img src="/assets/images/logingest/Scheduler5minWrite.png"></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Linux Agent Install Script<img src="/assets/images/logingest/AzureArcAgentInstallationLinux.png"></td>
-<td>Windows Event<img src="/assets/images/logingest/WindowsEvent.png"></td>
+<td><p style="font-size:12px;">Linux Agent Install Script</p><img src="/assets/images/logingest/AzureArcAgentInstallationLinux.png"></td>
+<td><p style="font-size:12px;">Windows Event</p><img src="/assets/images/logingest/WindowsEvent.png"></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Azure Arc Machines Overview<img src="/assets/images/logingest/AzureArcMachinesView.png"></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Windows Data Collection Rule<img src="/assets/images/logingest/AzureDCRWindows.png"></td>
+<td><p style="font-size:12px;">Azure Arc Machines Overview</p><img src="/assets/images/logingest/AzureArcMachinesView.png"></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Linux Data Collection Rule<img src="/assets/images/logingest/AzureDCRLinux.png"></td>
+<td><p style="font-size:12px;">Windows Data Collection Rule</p><img src="/assets/images/logingest/AzureDCRWindows.png"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><p style="font-size:12px;">Linux Data Collection Rule</p><img src="/assets/images/logingest/AzureDCRLinux.png"></td>
 <td></td>
 <td></td>
 <td></td>
