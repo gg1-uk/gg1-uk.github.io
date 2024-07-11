@@ -110,7 +110,7 @@ This case study focuses on the `resiliency features` of the two native software 
 </tr>
 <tr>
 <td>Linux Agent Install Script<img src="/assets/images/logingest/AzureArcAgentInstallationLinux.png"></td>
-<td></td>
+<td>Windows Event<img src="/assets/images/logingest/WindowsEvent.png"></td>
 <td></td>
 <td></td>
 </tr>
