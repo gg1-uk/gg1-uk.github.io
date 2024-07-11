@@ -31,7 +31,7 @@ This case study focuses on the `resiliency features` of the two native software 
   + Data Collection Rule for Windows Event Log for Azure Arc Machine
 + Internet Connectivity
 
-### Test Coverage
+### Test coverage
 + Windows Server 2019 Standard with Azure Connected Machine Agent suffering an 9 hours network connectivity downtime
   + According to Microsoft official <a href="https://learn.microsoft.com/en-us/troubleshoot/azure/azure-monitor/log-analytics/windows-agents/mma-troubleshoot-basics#frequently-asked-questions-faq">guideline</a>, data is buffered for up to 8.5 hours and maximum size of less than 1.5 GB before being discarded, hence, an 9 hours downtime was identified and tested
 + Windows Server 2019 Standard with Azure Connected Machine Agent suffering an 3 days network connectivity downtime
