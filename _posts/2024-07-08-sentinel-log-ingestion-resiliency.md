@@ -85,6 +85,49 @@ This case study focuses on the `resiliency features` of the two native software 
 </table>
 
 ### Endurance test garage
+<table class="blueTable">
+<thead>
+<tr align="center">
+<th>Microsoft Sentinel</th>
+<th>Windows 2019</th>
+<th>Ubuntu 20.04.4</th>
+<th>Remark</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td colspan="4" align="left">
+<div class="links"><a class="active" href="javascript:alert('ETA 17 July 2024!');">Test in progress</a></div>
+</td>
+</tr>
+</tfoot>
+<tbody align="center">
+<tr>
+<td>19</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>38</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>72</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>168</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### The step-by-step guide
 If there is a demand, this can be developed.
