@@ -121,11 +121,17 @@ This case study focuses on the `resiliency features` of the two native software 
 <td></td>
 </tr>
 <tr>
-<td>Azure Data Collection Rule<img src="/assets/images/logingest/AzureDCRWindows.png"></td>
+<td>Windows Data Collection Rule<img src="/assets/images/logingest/AzureDCRWindows.png"></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
+<tr>
+<td>Linux Data Collection Rule<img src="/assets/images/logingest/AzureDCRLinux.png"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>  
 </tbody>
 </table><br>
 
