@@ -83,6 +83,6 @@ This case study focuses on the `resiliency features` of the two native software 
 </tr>
 </tbody>
 </table>
-
+<br>
 ### Test Garage
 
