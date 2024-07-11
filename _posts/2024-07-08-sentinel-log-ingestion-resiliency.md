@@ -33,12 +33,9 @@ This case study focuses on the `resiliency features` of the two native software 
 
 ### Test coverage
 5.1 Windows Server 2019 Standard with Azure Connected Machine Agent suffering more than 9 hours network connectivity downtime<br>
-  + According to Microsoft official <a href="https://learn.microsoft.com/en-us/troubleshoot/azure/azure-monitor/log-analytics/windows-agents/mma-troubleshoot-basics#frequently-asked-questions-faq">guideline</a>, data is buffered for up to 8.5 hours and maximum size of less than 1.5 GB before being discarded, hence, more than 9 hours downtime was identified and tested
+  + According to Microsoft official <a href="https://learn.microsoft.com/en-us/troubleshoot/azure/azure-monitor/log-analytics/windows-agents/mma-troubleshoot-basics#frequently-asked-questions-faq">guideline</a>, data is buffered for up to 8.5 hours and maximum size of less than 1.5 GB before being discarded, hence, more than 9 hours downtime was identified and tested, can the logs re-transmission prevail?
     
-5.2 Windows Server 2019 Standard with Azure Connected Machine Agent suffering 3 days network connectivity downtime<br>
-  + What happened if the connectivity downtime more than 8.5 hours as maximum downtime allowed with security log's data less than 1.5 GB, can the logs re-transmission prevail?
-    
-5.3 Ubuntu Server 22.04.4 with Azure Connected Machine Agent suffering 3 days network connectivity downtime<br>
+5.2 Ubuntu Server 22.04.4 with Azure Connected Machine Agent suffering 3 days network connectivity downtime<br>
   + Let's see how long the logs survive depend on the disk storage size as per Microsoft official <a href="https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-troubleshoot-linux-vm-rsyslog#:~:text=Azure%20Monitor%20Agent%20uses%20local%20persistency%20by%20default
  ">guideline</a> and let's prove it to be trued
 
