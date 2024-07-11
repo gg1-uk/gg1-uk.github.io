@@ -82,7 +82,7 @@ This case study focuses on the `resiliency features` of the two native software 
 <td></td>
 </tr>
 </tbody>
-</table>
+</table><br>
 
 ### Endurance test garage
 <table class="blueTable">
@@ -127,7 +127,7 @@ This case study focuses on the `resiliency features` of the two native software 
 <td></td>
 </tr>
 </tbody>
-</table>
+</table><br>
 
 ### The step-by-step guide
 If there is a demand, this can be developed.
