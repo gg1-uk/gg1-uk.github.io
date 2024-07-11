@@ -104,7 +104,7 @@ This case study focuses on the `resiliency features` of the two native software 
 <tbody align="center">
 <tr>
 <td>Windows Agent Install Script<img src="/assets/images/logingest/AzureArcAgentInstallationWindows.png"></td>
-<td></td>
+<td>Windows Scheduler Event Write Every 5mins<img src="/assets/images/logingest/Scheduler5minWrite.png"></td>
 <td></td>
 <td></td>
 </tr>
