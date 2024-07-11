@@ -86,3 +86,5 @@ This case study focuses on the `resiliency features` of the two native software 
 
 ### Endurance test garage
 
+### The step-by-step guide
+If there is a demand, this can be developed.
