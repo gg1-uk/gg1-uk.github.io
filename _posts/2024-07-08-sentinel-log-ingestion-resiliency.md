@@ -103,13 +103,13 @@ This case study focuses on the `resiliency features` of the two native software 
 </tfoot>
 <tbody align="center">
 <tr>
-<td>Windows Agent Installation Script<img src="/assets/images/logingest/AzureArcAgentInstallationWindows.png"></td>
+<td>Windows Agent Install Script<img src="/assets/images/logingest/AzureArcAgentInstallationWindows.png"></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Linux Agent Installation Script<img src="/assets/images/logingest/AzureArcAgentInstallationLinux.png"></td>
+<td>Linux Agent Install Script<img src="/assets/images/logingest/AzureArcAgentInstallationLinux.png"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -121,7 +121,7 @@ This case study focuses on the `resiliency features` of the two native software 
 <td></td>
 </tr>
 <tr>
-<td></td>
+<td>Azure Data Collection Rule<img src="/assets/images/logingest/AzureDCRWindows.png"></td>
 <td></td>
 <td></td>
 <td></td>
