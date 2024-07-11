@@ -103,25 +103,25 @@ This case study focuses on the `resiliency features` of the two native software 
 </tfoot>
 <tbody align="center">
 <tr>
-<td><img src="/assets/images/logingest/AzureArcAgentInstallationWindows.png"></td>
-<td><img src="/assets/images/logingest/AzureArcAgentInstallationLinux.png"></td>
-<td><img src="/assets/images/logingest/AzureArcMachinesView.png"></td>
-<td></td>
-</tr>
-<tr>
-<td>38</td>
+<td>Windows Agent Installation<img src="/assets/images/logingest/AzureArcAgentInstallationWindows.png"></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>72</td>
+<td>Linux Agent Installation<img src="/assets/images/logingest/AzureArcAgentInstallationLinux.png"></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>168</td>
+<td>Azure Arc Machines Overview<img src="/assets/images/logingest/AzureArcMachinesView.png"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
