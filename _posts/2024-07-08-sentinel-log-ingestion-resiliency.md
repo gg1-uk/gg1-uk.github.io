@@ -40,5 +40,50 @@ This case study focuses on the `resiliency features` of the two native software 
   + Let's see how long the logs survive depend on the disk storage size as per Microsoft official <a href="https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-troubleshoot-linux-vm-rsyslog#:~:text=Azure%20Monitor%20Agent%20uses%20local%20persistency%20by%20default
  ">guideline</a> and let's prove it to be trued
 
+### Test result
+<table class="blueTable">
+<thead>
+<tr align="center">
+<th>Downtime Hour</th>
+<th>Windows 2019</th>
+<th>Ubuntu 20.04.4</th>
+<th>Remark</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td colspan="4">
+<div class="links"><a class="active" href="#">Test in progress</a></div>
+</td>
+</tr>
+</tfoot>
+<tbody align="center">
+<tr>
+<td>19</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>38</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>72</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>168</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ![walking](/assets/images/australia2019/island.jpg)
 
