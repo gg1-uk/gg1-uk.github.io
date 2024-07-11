@@ -6,16 +6,16 @@ categories: [ sentinel ]
 image: assets/images/australia2019/island.jpg
 featured: true
 hidden: true
-beforetoc: "Read/watch time: 3/10 minutes, updated 11-07-24 12:18am live"
+beforetoc: "Often time, we are hearing from our client on topic vis-a-vis know-how addressing security log ingestion capable of surviving intermittent or periodic network connectivity failure."
 toc: true
 ---
 
-### Ingestion survivability
-Often time, we are hearing from our client on topic vis-a-vis know-how addressing security log ingestion capable of surviving intermittent or periodic network connectivity failure. 
+<p style="font-size:1px;">Read/watch time: 3/10 minutes, updated 11-07-24 12:18am live</p>
 
+### Ingestion Survivability
 This is a valid and crucial concerns for client as part of the architectural resiliency design and risk considerations, all in all ensuring there is no loss of security logs in the event of connection failure.
 
-### Ingestion endurance test
+### Endurance test
 This case study focuses on the `resiliency features` of the two native software agents purpose-built to handle ingestion of the security logs from on-premises operating systems to Microsoft Sentinel, which attesting the robustness of `retry mechanism` during temporary or prolong network connectivity downtime.
 
 ### Greener lab
