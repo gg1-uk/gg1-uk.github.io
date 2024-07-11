@@ -13,15 +13,15 @@ toc: true
 ### Survival rule
 Often time, we are hearing from our client on topic vis-a-vis know-how addressing security log ingestion capable of surviving intermittent or periodic network connectivity failure. 
 
-Honestly, this is a valid and crucial concerns for client as part of the architectural design consideration and business as usual risk awareness, all in all ensuring there is no loss of security logs in the event of connection failure.
+This is a valid and crucial concerns for client as part of the architectural resiliency design and risk considerations, all in all ensuring there is no loss of security logs in the event of connection failure.
 
 ### Endurance test
-This case study focuses on the `resiliency features` of the two native software agents purpose-built to handle ingestion of the security logs from on-premises operating systems to Microsoft Sentinel, which attesting the resiliency in term of `retry mechanism` during temporary or prolong network connectivity downtime.
+This case study focuses on the `resiliency features` of the two native software agents purpose-built to handle ingestion of the security logs from on-premises operating systems to Microsoft Sentinel, which attesting the robustness of `retry mechanism` during temporary or prolong network connectivity downtime.
 
-### The test coverage
+### Greener test lab
 > An eco-friendly way, a nano box was powered-on alongsides 6-month licensed Windows Server 2019 Standard with Hyper-V virtualized Ubuntu Server 22.04.4 LTS up and running. This test aimed to survive target 3 to 7 days long 24x7 uptimes with minimum carbon emisson and minimize risk of surging power utility bill at home ;)
 
-The test components below.
+### Test gears
 + Windows Server 2019 Standard with Azure Connected Machine Agent
 + Ubuntu Server 22.04.4 with Azure Connected Machine Agent
 + Microsoft Sentinel
@@ -31,7 +31,7 @@ The test components below.
   + Data Collection Rule for Windows Event Log for Azure Arc Machine
 + Internet Connectivity
 
-The test scenarios below.
+### Test Coverage
 + Windows Server 2019 Standard with Azure Connected Machine Agent suffering an 9 hours network connectivity downtime
   + According to Microsoft official <a href="https://learn.microsoft.com/en-us/troubleshoot/azure/azure-monitor/log-analytics/windows-agents/mma-troubleshoot-basics#frequently-asked-questions-faq">guideline</a>, data is buffered for up to 8.5 hours and maximum size of less than 1.5 GB before being discarded, hence, an 9 hours downtime was identified and tested
 + Windows Server 2019 Standard with Azure Connected Machine Agent suffering an 3 days network connectivity downtime
