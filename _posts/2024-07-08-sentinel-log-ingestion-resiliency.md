@@ -52,7 +52,7 @@ This case study focuses on the `resiliency features` of the two native software 
 </thead>
 <tfoot>
 <tr>
-<td colspan="4">
+<td colspan="4" align="left">
 <div class="links"><a class="active" href="">Test in progress</a></div>
 </td>
 </tr>
