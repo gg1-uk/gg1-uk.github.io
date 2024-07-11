@@ -10,18 +10,18 @@ beforetoc: "Read/watch time: 3/10 minutes, updated 11-07-24 12:18am live"
 toc: true
 ---
 
-### Log ingestion survivability
+### Ingestion survivability
 Often time, we are hearing from our client on topic vis-a-vis know-how addressing security log ingestion capable of surviving intermittent or periodic network connectivity failure. 
 
 This is a valid and crucial concerns for client as part of the architectural resiliency design and risk considerations, all in all ensuring there is no loss of security logs in the event of connection failure.
 
-### Log ingestion endurance test
+### Ingestion endurance test
 This case study focuses on the `resiliency features` of the two native software agents purpose-built to handle ingestion of the security logs from on-premises operating systems to Microsoft Sentinel, which attesting the robustness of `retry mechanism` during temporary or prolong network connectivity downtime.
 
 ### Greener lab
 > An eco-friendly way, a nano box was powered-on alongsides 6-month licensed Windows Server 2019 Standard with Hyper-V virtualized Ubuntu Server 22.04.4 LTS up and running. This test aimed to survive target 3 to 7 days long 24x7 uptimes with minimum carbon emisson and minimize risk of surging power utility bill at home ;)
 
-### Top gears for endurance test
+### Gears up endurance test
 4.1 Windows Server 2019 Standard with Azure Connected Machine Agent<br>
 4.2 Ubuntu Server 22.04.4 with Azure Connected Machine Agent<br>
 4.3 Microsoft Sentinel<br>
