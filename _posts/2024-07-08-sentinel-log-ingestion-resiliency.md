@@ -10,7 +10,7 @@ beforetoc: "Often time, we are hearing from our client on topic vis-a-vis know-h
 toc: true
 ---
 
-<p style="font-size:8px;">Read: 3mins, watch:10mins, updated 11-07-24 12:18am live.</p>
+<p style="font-size:12px;">Read: 3mins, watch:10mins, updated 11-07-24 12:18am live.</p>
 
 ### Ingestion Survivability
 This is a valid and crucial concerns for client as part of the architectural resiliency design and risk considerations, all in all ensuring there is no loss of security logs in the event of connection failure.
