@@ -46,7 +46,7 @@ table.blueTable tfoot td {
   font-size: 14px;
 }
 table.blueTable tfoot .links {
-  text-align: right;
+  text-align: left;
 }
 table.blueTable tfoot .links a{
   display: inline-block;
