@@ -117,19 +117,19 @@ This case study focuses on the `resiliency features` of the two native software 
 </tr>
 <tr>
 <td><p style="font-size:12px;">Azure Arc Machines Overview</p><img src="/assets/images/logingest/AzureArcMachinesView.png"></td>
-<td><p style="font-size:12px;">Windows Wireshark Detecting Outbound Azure Agent Traffic</p><img src="/assets/images/logingest/WindowsWiresharkDetectOutboundAzureTraffic.png"></td>
+<td><p style="font-size:12px;">Windows Azure Agent Installation</p><img src="/assets/images/logingest/WindowsAzureAgentInstallation.png"></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td><p style="font-size:12px;">Windows Data Collection Rule</p><img src="/assets/images/logingest/AzureDCRWindows.png"></td>
-<td><p style="font-size:12px;">Windows Hosts File Prevent Outbound Azure Agent Traffic</p><img src="/assets/images/logingest/WindowsHostsFileBlockAccess.png"></td>
+<td><p style="font-size:12px;">Windows Wireshark Detecting Outbound Azure Agent Traffic</p><img src="/assets/images/logingest/WindowsWiresharkDetectOutboundAzureTraffic.png"></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td><p style="font-size:12px;">Linux Data Collection Rule</p><img src="/assets/images/logingest/AzureDCRLinux.png"></td>
-<td></td>
+<td><p style="font-size:12px;">Windows Hosts File Prevent Outbound Azure Agent Traffic</p><img src="/assets/images/logingest/WindowsHostsFileBlockAccess.png"></td>
 <td></td>
 <td></td>
 </tr>  
