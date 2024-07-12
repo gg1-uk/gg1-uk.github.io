@@ -44,7 +44,7 @@ This case study focuses on the `resiliency features` of the two native software 
 <table class="blueTable">
 <thead>
 <tr align="center">
-<th>Downtime Hour</th>
+<th>Network Downtime Hour</th>
 <th>Windows Server 2019</th>
 <th>Ubuntu Server 22.04.4</th>
 <th>Remark</th>
