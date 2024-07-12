@@ -136,5 +136,5 @@ This case study focuses on the `resiliency features` of the two native software 
 </tbody>
 </table><br>
 
-### The step-by-step guide
+### How-to
 Development in progress.
