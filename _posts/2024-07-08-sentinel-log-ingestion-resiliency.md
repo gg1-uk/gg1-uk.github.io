@@ -11,7 +11,7 @@ toc: true
 ---
 
 Often time, we are hearing from our client on topic vis-a-vis know-how addressing security log ingestion capable of surviving intermittent or periodic network connectivity failure.
-<p style="font-size:16px; font-style:italic;">Read: 3mins, watch: 10mins, updated 11-07-24 8:19pm live.</p>
+<p style="font-size:16px; font-style:italic;">Read: 3mins, watch: 10mins, updated 11-Jul-24 8:19pm live.</p>
 
 ### Ingestion Survivability
 This is a valid and crucial concerns for client as part of the architectural resiliency design and risk considerations, all in all ensuring there is no loss of security logs in the event of network connection failure.
