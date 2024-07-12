@@ -123,7 +123,7 @@ This case study focuses on the `resiliency features` of the two native software 
 </tr>
 <tr>
 <td><p style="font-size:12px;">Windows Data Collection Rule</p><img src="/assets/images/logingest/AzureDCRWindows.png"></td>
-<td><p style="font-size:12px;">Windows Hosts File Block Agent Access</p><img src="/assets/images/logingest/WindowsHostsFileBlockAccess.png"></td>
+<td><p style="font-size:12px;">Windows Hosts File Prevent Outbound Azure Agent Traffic</p><img src="/assets/images/logingest/WindowsHostsFileBlockAccess.png"></td>
 <td></td>
 <td></td>
 </tr>
