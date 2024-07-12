@@ -44,8 +44,8 @@ This case study focuses on the `resiliency features` of the two native software 
 <thead>
 <tr align="center">
 <th>Downtime Hour</th>
-<th>Windows 2019</th>
-<th>Ubuntu 20.04.4</th>
+<th>Windows Server 2019</th>
+<th>Ubuntu Server 22.04.4</th>
 <th>Remark</th>
 </tr>
 </thead>
@@ -89,8 +89,8 @@ This case study focuses on the `resiliency features` of the two native software 
 <thead>
 <tr align="center">
 <th>Microsoft Sentinel</th>
-<th>Windows 2019</th>
-<th>Ubuntu 20.04.4</th>
+<th>Windows Server 2019</th>
+<th>Ubuntu Server 22.04.4</th>
 <th>Remark</th>
 </tr>
 </thead>
