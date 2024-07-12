@@ -6,7 +6,7 @@ categories: [ sentinel ]
 image: assets/images/australia2019/island.jpg
 featured: true
 hidden: true
-beforetoc: ""
+beforetoc: "Security logs ingestion from on-premises to Microsoft Sentinel."
 toc: true
 ---
 
