@@ -117,7 +117,7 @@ This case study focuses on the `resiliency features` of the two native software 
 </tr>
 <tr>
 <td><p style="font-size:12px;">Azure Arc Machines Overview</p><img src="/assets/images/logingest/AzureArcMachinesView.png"></td>
-<td></td>
+<td><p style="font-size:12px;">Windows Hosts File Block Agent Access</p><img src="/assets/images/logingest/WindowsHostsFileBlockAccess.png"></td>
 <td></td>
 <td></td>
 </tr>
