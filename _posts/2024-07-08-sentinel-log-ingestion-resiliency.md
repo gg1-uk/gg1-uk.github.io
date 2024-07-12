@@ -14,7 +14,7 @@ Often time, we are hearing from our client on topic vis-a-vis know-how addressin
 <p style="font-size:16px; font-style:italic;">Read: 3mins, watch: 10mins, updated 11-07-24 8:19pm live.</p>
 
 ### Ingestion Survivability
-This is a valid and crucial concerns for client as part of the architectural resiliency design and risk considerations, all in all ensuring there is no loss of security logs in the event of connection failure.
+This is a valid and crucial concerns for client as part of the architectural resiliency design and risk considerations, all in all ensuring there is no loss of security logs in the event of network connection failure.
 
 ### Endurance test
 This case study focuses on the `resiliency features` of the two native software agents purpose-built to handle ingestion of the security logs from on-premises operating systems to Microsoft Sentinel, which attesting the robustness of `retry mechanism` during temporary or prolong network connectivity downtime.
