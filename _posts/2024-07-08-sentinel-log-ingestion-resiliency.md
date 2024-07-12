@@ -6,10 +6,11 @@ categories: [ sentinel ]
 image: assets/images/australia2019/island.jpg
 featured: true
 hidden: true
-beforetoc: "Often time, we are hearing from our client on topic vis-a-vis know-how addressing security log ingestion capable of surviving intermittent or periodic network connectivity failure."
+beforetoc: ""
 toc: true
 ---
 
+Often time, we are hearing from our client on topic vis-a-vis know-how addressing security log ingestion capable of surviving intermittent or periodic network connectivity failure.
 <p style="font-size:12px;">Read: 3mins, watch: 10mins, updated 11-07-24 8:19pm live.</p>
 
 ### Ingestion Survivability
