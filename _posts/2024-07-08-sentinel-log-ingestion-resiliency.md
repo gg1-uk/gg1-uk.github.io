@@ -107,26 +107,26 @@ This case study focuses on the `resiliency features` of the two native software 
 <td><p style="font-size:12px;">Windows Agent Install Script</p><img src="/assets/images/logingest/AzureArcAgentInstallationWindows.png"></td>
 <td><p style="font-size:12px;">Windows Scheduler Event Write Every 5mins</p><img src="/assets/images/logingest/Scheduler5minWrite.png"></td>
 <td><p style="font-size:12px;">Hyper-V Linux Virtual Machine Installation</p><img src="/assets/images/logingest/HyperVLinuxInstallation.png"></td>
-<td><p style="font-size:12px;">Windows Sentinel Last Ingested Event </p><img src="/assets/images/logingest/KQLWindowsEvents.png"></td>
+<td><p style="font-size:12px;">Windows Sentinel Last Ingested Event</p><img src="/assets/images/logingest/KQLWindowsEvents.png"></td>
 </tr>
 <tr>
 <td><p style="font-size:12px;">Linux Agent Install Script</p><img src="/assets/images/logingest/AzureArcAgentInstallationLinux.png"></td>
 <td><p style="font-size:12px;">Windows Event</p><img src="/assets/images/logingest/WindowsEvent.png"></td>
 <td><p style="font-size:12px;">Linux Cronjob Hourly Write</p><img src="/assets/images/logingest/LinuxCronjob1hourWrite.png"></td>
-<td><p style="font-size:12px;">Linux Sentinel Last Ingested Syslog </p><img src="/assets/images/logingest/KQLSyslogs.png"></td>
+<td><p style="font-size:12px;">Linux Sentinel Last Ingested Syslog</p><img src="/assets/images/logingest/KQLSyslogs.png"></td>
 <td></td>
 </tr>
 <tr>
 <td><p style="font-size:12px;">Azure Arc Machines Overview</p><img src="/assets/images/logingest/AzureArcMachinesView.png"></td>
 <td><p style="font-size:12px;">Windows Azure Agent Installation</p><img src="/assets/images/logingest/WindowsAzureAgentInstallation.png"></td>
 <td><p style="font-size:12px;">Linux Syslog</p><img src="/assets/images/logingest/LinuxSyslog.png"></td>
-<td></td>
+<td><p style="font-size:12px;">Windows Last Ingested Event</p><img src="/assets/images/logingest/WindowsEventLive.png"></td>
 </tr>
 <tr>
 <td><p style="font-size:12px;">Windows Data Collection Rule</p><img src="/assets/images/logingest/AzureDCRWindows.png"></td>
 <td><p style="font-size:12px;">Windows Wireshark Detecting Outbound Azure Agent Traffic</p><img src="/assets/images/logingest/WindowsWiresharkDetectOutboundAzureTraffic.png"></td>
 <td><p style="font-size:12px;">Linux Agent Installation and Device Login</p><img src="/assets/images/logingest/LinuxAzureAgentInstallation.png"></td>
-<td></td>
+<td><p style="font-size:12px;">Linux Last Ingested Syslog</p><img src="/assets/images/logingest/LinuxSyslogLive.png"></td>
 </tr>
 <tr>
 <td><p style="font-size:12px;">Linux Data Collection Rule</p><img src="/assets/images/logingest/AzureDCRLinux.png"></td>
