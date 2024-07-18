@@ -11,7 +11,7 @@ toc: true
 ---
 
 Often time, we are hearing from our client on topic vis-a-vis know-how addressing security log ingestion capable of surviving intermittent or periodic network connectivity failure.
-<p style="font-size:16px; font-style:italic;">Read: 3mins, watch: 10mins, updated 11-Jul-24 8:19pm live.</p>
+<p style="font-size:16px; font-style:italic;">Read: 3mins, watch: 10mins, updated 18-Jul-24 12:25pm live.</p>
 
 ### Ingestion Survivability
 This is a valid and crucial concerns for client as part of the architectural resiliency design and risk considerations, all in all ensuring there is no loss of security logs in the event of network connection failure.
@@ -62,13 +62,13 @@ This case study focuses on the `resiliency features` of the two native software 
 <td>187 (7 days 19 hours)</td>
 <td><p style="font-size:12px;">Recovered last 48 hours Windows Event</p><img src="/assets/images/logingest/EventEightDaysMissing.png"></td>
 <td><p style="font-size:12px;">Missing two Syslog record</p><img src="/assets/images/logingest/SyslogTwoRecordsMissing.png"></td>
-<td><p style="font-size:12px;">Stopped software agent network connetivity on 10/Jul/24 3:30PM<br><br>Resumed software agent network connectivity on 18/Jul/24 9:35AM<br><br>Windows Event first resumed ingestion on 18/Jul/24 10:45AM<br><br>Syslog first resumed ingestion on 10/Jul/24 6:00PM</p></td>
+<td><p style="font-size:12px;"><br>Stopped software agent network connetivity on 10/Jul/24 3:30PM<br><br>Resumed software agent network connectivity on 18/Jul/24 9:35AM<br><br>Windows Event first resumed ingestion on 18/Jul/24 10:45AM<br><br>Syslog first resumed ingestion on 10/Jul/24 6:00PM</p></td>
 </tr>
 <tr>
 <td>48 (2 days)</td>
 <td></td>
 <td></td>
-<td><p style="font-size:12px;">Modified Event and Syslog message body with timestamp</p></td>
+<td><p style="font-size:12px;"><br>Modified Event and Syslog message body with timestamp</p></td>
 </tr>
 </tbody>
 </table><br>
