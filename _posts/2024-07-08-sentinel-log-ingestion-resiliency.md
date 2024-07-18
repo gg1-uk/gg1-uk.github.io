@@ -113,6 +113,7 @@ This case study focuses on the `resiliency features` of the two native software 
 <td><p style="font-size:12px;">Linux Agent Install Script</p><img src="/assets/images/logingest/AzureArcAgentInstallationLinux.png"></td>
 <td><p style="font-size:12px;">Windows Event</p><img src="/assets/images/logingest/WindowsEvent.png"></td>
 <td><p style="font-size:12px;">Linux Cronjob Hourly Write</p><img src="/assets/images/logingest/LinuxCronjob1hourWrite.png"></td>
+<td><p style="font-size:12px;">Linux Sentinel Last Ingested Syslog </p><img src="/assets/images/logingest/KQLSyslogs.png"></td>
 <td></td>
 </tr>
 <tr>
