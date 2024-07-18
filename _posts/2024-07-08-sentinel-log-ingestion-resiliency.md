@@ -47,7 +47,7 @@ This case study focuses on the `resiliency features` of the two native software 
 <th>Network Downtime Hour</th>
 <th>Windows Server 2019</th>
 <th>Ubuntu Server 22.04.4</th>
-<th>Remark</th>
+<th>Remark  (GMT+8)</th>
 </tr>
 </thead>
 <tfoot>
@@ -59,28 +59,16 @@ This case study focuses on the `resiliency features` of the two native software 
 </tfoot>
 <tbody align="center">
 <tr>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
+<td>187 (7 days 19 hours)</td>
+<td><p style="font-size:12px;">Recovered last 48 hours Windows Event</p><img src="/assets/images/logingest/EventEightDaysMissing.png"></td>
+<td><p style="font-size:12px;">Missing two Syslog record</p><img src="/assets/images/logingest/SyslogTwoRecordsMissing.png"></td>
+<td><p style="font-size:12px;">Stopped software agent network connetivity on 10/Jul/24 3:30PM<br><br>Resumed software agent network connectivity on 18/Jul/24 9:35AM<br><br>Windows Event first resumed ingestion on 18/Jul/24 10:45AM<br><br>Syslog first resumed ingestion on 10/Jul/24 6:00PM</p></td>
 </tr>
 <tr>
-<td>38</td>
+<td>48 (2 days)</td>
 <td></td>
 <td></td>
-<td></td>
-</tr>
-<tr>
-<td>72</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>168</td>
-<td></td>
-<td></td>
-<td></td>
+<td><p style="font-size:12px;">Modified Event and Syslog message body with timestamp</p></td>
 </tr>
 </tbody>
 </table><br>
