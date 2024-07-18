@@ -107,7 +107,7 @@ This case study focuses on the `resiliency features` of the two native software 
 <td><p style="font-size:12px;">Windows Agent Install Script</p><img src="/assets/images/logingest/AzureArcAgentInstallationWindows.png"></td>
 <td><p style="font-size:12px;">Windows Scheduler Event Write Every 5mins</p><img src="/assets/images/logingest/Scheduler5minWrite.png"></td>
 <td><p style="font-size:12px;">Hyper-V Linux Virtual Machine Installation</p><img src="/assets/images/logingest/HyperVLinuxInstallation.png"></td>
-<td></td>
+<td><p style="font-size:12px;">Windows Sentinel Last Ingested Event </p><img src="/assets/images/logingest/KQLWindowsEvents.png"></td>
 </tr>
 <tr>
 <td><p style="font-size:12px;">Linux Agent Install Script</p><img src="/assets/images/logingest/AzureArcAgentInstallationLinux.png"></td>
