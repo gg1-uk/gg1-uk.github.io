@@ -60,7 +60,7 @@ This case study focuses on the `resiliency features` of the two native software 
 <tbody align="center">
 <tr>
 <td>187 (7 days 19 hours)</td>
-<td><p style="font-size:12px;">Recovered last 48 hours Windows Event</p><img src="/assets/images/logingest/EventEightDaysMissing.png"></td>
+<td><p style="font-size:12px;">Recovered last 48 hours Windows Event</p><img src="/assets/images/logingest/EventSixDaysMissing.png"></td>
 <td><p style="font-size:12px;">Missing two Syslog record</p><img src="/assets/images/logingest/SyslogTwoRecordsMissing.png"></td>
 <td><p style="font-size:12px;"><br>Stopped software agent network connetivity on 10/Jul/24 3:30PM<br><br>Resumed software agent network connectivity on 18/Jul/24 9:35AM<br><br>Windows Event first resumed ingestion on 18/Jul/24 10:45AM<br><br>Syslog first resumed ingestion on 10/Jul/24 6:00PM</p></td>
 </tr>
