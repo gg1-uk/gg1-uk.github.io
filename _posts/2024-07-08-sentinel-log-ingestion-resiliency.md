@@ -127,3 +127,6 @@ This case study focuses on the `resiliency features` of the two native software 
 
 ### Step by step
 Development in progress.
+
+### Conclusion
+Development in progress.
