@@ -68,7 +68,7 @@ This case study focuses on the `resiliency features` of the two native software 
 <td>48 (2 days)</td>
 <td></td>
 <td></td>
-<td><p style="font-size:12px;"><br>Modified Event and Syslog message body with timestamp</p></td>
+<td><p style="font-size:12px;"><br>Modified Event and Syslog message body with timestamp<br><br>Disconnect network cable on 19/Jul/24 12:48PM</p></td>
 </tr>
 </tbody>
 </table><br>
