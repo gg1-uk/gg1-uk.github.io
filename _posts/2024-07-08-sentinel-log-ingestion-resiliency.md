@@ -30,6 +30,7 @@ This case study focuses on the `resiliency features` of the two native software 
   + Syslog via AMA data connector
   + Data Collection Rule for Syslog for Azure Arc Machine
   + Data Collection Rule for Windows Event Log for Azure Arc Machine
+  
 4.4 Internet Connectivity<br>
 
 ### Coverage
