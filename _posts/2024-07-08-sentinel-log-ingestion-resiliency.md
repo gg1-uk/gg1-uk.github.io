@@ -25,13 +25,12 @@ This case study focuses on the `resiliency features` of the two native software 
 ### Gears up
 4.1 Windows Server 2019 Standard with Azure Connected Machine Agent<br>
 4.2 Ubuntu Server 22.04.4 with Azure Connected Machine Agent<br>
-4.3 Microsoft Sentinel<br>
+4.3 Internet Connectivity<br>
+4.4 Microsoft Sentinel<br>
   + Log Analytics Workspace
   + Syslog via AMA data connector
   + Data Collection Rule for Syslog for Azure Arc Machine
-  + Data Collection Rule for Windows Event Log for Azure Arc Machine
-  
-4.4 Internet Connectivity<br>
+  + Data Collection Rule for Windows Event Log for Azure Arc Machine  
 
 ### Coverage
 5.1 Windows Server 2019 Standard with Azure Connected Machine Agent suffering more than 9 hours network connectivity downtime.<br>
@@ -63,7 +62,7 @@ This case study focuses on the `resiliency features` of the two native software 
 <td>187 (7 days 19 hours)</td>
 <td><p style="font-size:12px;">Recovered last 48 hours Windows Event</p><img src="/assets/images/logingest/EventSixDaysMissing.png"></td>
 <td><p style="font-size:12px;">Missing two Syslog record</p><img src="/assets/images/logingest/SyslogTwoRecordsMissing.png"></td>
-<td><p style="font-size:12px;"><br>Stopped software agent network connetivity on 10/Jul/24 3:30PM<br><br>Resumed software agent network connectivity on 18/Jul/24 9:35AM<br><br>Windows Event first resumed ingestion on 18/Jul/24 10:45AM<br><br>Syslog first resumed ingestion on 10/Jul/24 6:00PM</p></td>
+<td><p style="font-size:12px;"><br>Blocked software agent network connetivity on 10/Jul/24 3:30PM<br><br>Resumed software agent network connectivity on 18/Jul/24 9:35AM<br><br>Windows Event first resumed ingestion on 18/Jul/24 10:45AM<br><br>Syslog first resumed ingestion on 10/Jul/24 6:00PM</p></td>
 </tr>
 <tr>
 <td>48 (2 days)</td>
