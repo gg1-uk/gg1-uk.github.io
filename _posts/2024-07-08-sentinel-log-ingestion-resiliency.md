@@ -53,7 +53,8 @@ This case study focuses on the `resiliency features` of the two native software 
 <tfoot>
 <tr>
 <td colspan="4" align="left">
-<div class="links"><a class="active" href="javascript:alert('1st and 2nd phases of tests completed as of 18 and 22 July 2024! Bonus test in progress ETA 23 July 2024!');">Survivability tests completed.</a></div>
+<div class="links"><a class="active" href="javascript:alert('1st and 2nd phases of tests completed as of 18 and 22 July 2024!
+Bonus test in progress ETA 23 July 2024!');">Survivability tests completed.</a></div>
 </td>
 </tr>
 </tfoot>
@@ -133,6 +134,6 @@ This case study focuses on the `resiliency features` of the two native software 
 
 ### Conclusion
 The two tests conducted from 10 July to 22 July provide consistent results below.
-  + Windows Azure Connected Machine Agent is capable to recover a maximum last 24 hours Windows Event once network connectivity resumed and retry counter/polling interval reset e.g., 4/8/12 hours, perhaps, a restart of Azure Connected Machine Agent is able to resumed Windows Event reingestion immediately after restarted rather than waiting for the retry counter/polling interval reset?
-  + Linux Azure Connected Machine Agent is capable to recover almost 99.99% (with missing 1 record during the moment - one second interval - when network downtime hits - refer to Phase 2 test result for detail) Syslog records, also bear in mind the Syslog server's storage capacity is able to keep the Syslog messages in queue for the period of downtime and perform a sanity check for any missing - one second internal - Syslogs records for necessary manual recovery?
+  + Windows Azure Connected Machine Agent is capable to recover a maximum of last 24 hours Windows Event once network connectivity resumed and retry counter/polling interval reset e.g., 4/8/12 hours, perhaps, a restart of Azure Connected Machine Agent is able to resumed Windows Event reingestion immediately after restarted rather than waiting for the retry counter/polling interval reset?
+  + Linux Azure Connected Machine Agent is capable to recover almost 99.99% Syslog records (with missing 1 record during the moment - one second interval - when network downtime hits - refer to Phase 2 test result for detail), also bear in mind how long the Syslog server's storage capacity is able to keep the Syslog messages in queue for the period of network connectivity downtime and remember to perform a sanity check for any missing Syslogs record(s) - one second internal - for necessary manual reingestion if applicable?
 
