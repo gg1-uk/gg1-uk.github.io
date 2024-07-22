@@ -41,7 +41,6 @@ This case study focuses on the `resiliency features` of the two native software 
  ">guideline</a> and let's prove it to be trued.
 
 ### Result
-
 <table class="blueTable">
 <thead>
 <tr align="center">
@@ -73,15 +72,14 @@ This case study focuses on the `resiliency features` of the two native software 
 </tr>
 <tr>
 <td>24 (1 day)</td>
-<td><p style="font-size:12px;"></td>
-<td><p style="font-size:12px;"></td>
+<td><p style="font-size:12px;"></p></td>
+<td><p style="font-size:12px;"></p></td>
 <td><p style="font-size:12px;"><br>Disconnected network cable on 22/Jul/24 21:55PM<br><br>Reconnected network cable on<br><br>Windows Event first resumed ingestion on<br><br>Syslog first resumed ingestion on</p></td>
 </tr>
 </tbody>
 </table><br>
 
 ### Garage
-
 <table class="blueTable">
 <thead>
 <tr align="center">
