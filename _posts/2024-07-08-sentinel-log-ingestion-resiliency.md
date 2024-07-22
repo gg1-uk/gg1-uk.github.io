@@ -75,7 +75,7 @@ This case study focuses on the `resiliency features` of the two native software 
 <td><p style="font-size:12px;"></td>
 <td><p style="font-size:12px;"></td>
 <td><p style="font-size:12px;"><br>Disconnected network cable on 22/Jul/24 21:55PM<br><br>Reconnected network cable on<br><br>Windows Event first resumed ingestion on<br><br>Syslog first resumed ingestion on</p></td>
-</tr>  
+</tr>
 </tbody>
 </table><br>
 
