@@ -135,7 +135,7 @@ This case study focuses on the `resiliency features` of the two native software 
 ### Conclusion
 The two tests conducted from 10 July to 22 July provide consistent results below.
 
-8.1 Windows Azure Connected Machine Agent is capable to recover a maximum of last 24 hours Windows Event once network connectivity resumed and retry counter/polling interval reset e.g., 4/8/12 hours.
+8.1 Windows Azure Connected Machine Agent is capable to recover a maximum of last 24 hours Windows Event once network connectivity resumed and retry counter/polling interval reset e.g., 4/8/12/... hours.
   + Perhaps, a restart of Azure Connected Machine Agent is able to resumed Windows Event reingestion immediately after restarted rather than waiting for the retry counter/polling interval reset?
 
 8.2 Linux Azure Connected Machine Agent is capable to recover almost 99.99% Syslog records (with missing 1 record during the moment - one second interval - when network downtime hits - refer to Phase 2 test result for detail).
