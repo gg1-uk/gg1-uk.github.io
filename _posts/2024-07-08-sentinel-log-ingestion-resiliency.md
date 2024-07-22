@@ -53,7 +53,7 @@ This case study focuses on the `resiliency features` of the two native software 
 <tfoot>
 <tr>
 <td colspan="4" align="left">
-<div class="links"><a class="active" href="javascript:alert('2nd phase ETA 27 July 2024!');">Testing in progress</a></div>
+<div class="links"><a class="active" href="javascript:alert('1st and 2nd phases of tests completed as of 18 and 22 July 2024! Bonus test in progress ETA 23 July 2024!');">Survivability tests completed.</a></div>
 </td>
 </tr>
 </tfoot>
@@ -65,11 +65,17 @@ This case study focuses on the `resiliency features` of the two native software 
 <td><p style="font-size:12px;"><br>Blocked software agent network connetivity on 10/Jul/24 3:30PM<br><br>Resumed software agent network connectivity on 18/Jul/24 9:35AM<br><br>Windows Event first resumed ingestion on 18/Jul/24 10:45AM<br><br>Syslog first resumed ingestion on 10/Jul/24 6:00PM</p></td>
 </tr>
 <tr>
-<td>48 (2 days)</td>
-<td></td>
-<td></td>
-<td><p style="font-size:12px;"><br>Modified Event and Syslog message body with timestamp<br><br>Disconnected network cable on 19/Jul/24 12:48PM</p></td>
+<td>74 (3 days 2 hours)</td>
+<td><p style="font-size:12px;">Recovered last 48 hours Windows Event</p><img src="/assets/images/logingest/RecoveredWindowsEvent.png"></td>
+<td><p style="font-size:12px;">Missing one Syslog record</p><img src="/assets/images/logingest/SyslogMissingOneRecord.png"></td>
+<td><p style="font-size:12px;"><br>Modified Event and Syslog message body with timestamp<br><br>Disconnected network cable on 19/Jul/24 12:48PM<br><br>Reconnected network cable on 22/Jul/24 14:58PM<br><br>Windows Event first resumed ingestion on 20/Jul/24 19:29:15<br><br>Syslog first resumed ingestion on Fri Jul 19 12:49:01 PM +08 2024</p></td>
 </tr>
+<tr>
+<td>24 (1 day)</td>
+<td><p style="font-size:12px;"></td>
+<td><p style="font-size:12px;"></td>
+<td><p style="font-size:12px;"><br>Disconnected network cable on 22/Jul/24 21:55PM<br><br>Reconnected network cable on<br><br>Windows Event first resumed ingestion on<br><br>Syslog first resumed ingestion on</p></td>
+</tr>  
 </tbody>
 </table><br>
 
@@ -86,7 +92,7 @@ This case study focuses on the `resiliency features` of the two native software 
 <tfoot>
 <tr>
 <td colspan="4" align="left">
-<div class="links"><a class="active" href="javascript:alert('Garage always in innovating mode!');">Upgrading in progress</a></div>
+<div class="links"><a class="active" href="javascript:alert('Garage always in innovating mode!');">Upgrading in progress...</a></div>
 </td>
 </tr>
 </tfoot>
@@ -125,8 +131,7 @@ This case study focuses on the `resiliency features` of the two native software 
 </tbody>
 </table><br>
 
-### Step by step
-Development in progress.
-
 ### Conclusion
-Development in progress.
+The two tests conducted from 10 July to 22 July provide consistent results below.
+  + Windows Azure Connected Machine Agent is capable to recover a maximum last 24 hours Windows Event once network connectivity resumed and retry counter/polling interval reset e.g., 4/8/12 hours, perhaps, a restart of Azure Connected Machine Agent is able to resumed Windows Event reingestion immediately after restarted rather than waiting for the retry counter/polling interval reset?
+  + Linux Azure Connected Machine Agent is capable to recover almost 99.99% (with missing 1 record during the moment - one second interval - when network downtime hits - refer to Phase 2 test result for detail) Syslog records, also bear in mind the Syslog server's storage capacity is able to keep the Syslog messages in queue for the period of downtime and perform a sanity check for any missing - one second internal - Syslogs records for necessary manual recovery?
