@@ -41,6 +41,7 @@ This case study focuses on the `resiliency features` of the two native software 
  ">guideline</a> and let's prove it to be trued.
 
 ### Result
+
 <table class="blueTable">
 <thead>
 <tr align="center">
@@ -80,6 +81,7 @@ This case study focuses on the `resiliency features` of the two native software 
 </table><br>
 
 ### Garage
+
 <table class="blueTable">
 <thead>
 <tr align="center">
