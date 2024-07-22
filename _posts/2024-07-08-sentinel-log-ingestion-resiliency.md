@@ -127,7 +127,7 @@ This case study focuses on the `resiliency features` of the two native software 
 <td><p style="font-size:12px;">Linux Data Collection Rule</p><img src="/assets/images/logingest/AzureDCRLinux.png"></td>
 <td><p style="font-size:12px;">Windows Hosts File Prevent Outbound Azure Agent Traffic</p><img src="/assets/images/logingest/WindowsHostsFileBlockAccess.png"></td>
 <td><p style="font-size:12px;">Linux Host File Prevent Outbound Azure Agent Traffic</p><img src="/assets/images/logingest/LinuxHostsFileBlockAccess.png"></td>
-<td><p style="font-size:12px;"><br>Sentinel Phase 2 Test<br><br>2.1 Last ingested Windows Event on 19/Jul/24 12:48:19<br><br>2.2 Last ingested Linux Syslog on Fri Jul 19 12:47:01 PM +08 2024<br><br>Sentinel Bonus Test<br><br>B.1 Last ingested Windows Event on 20/Jul/24 19:28:55<br><br>B.2 Last ingested Linux Syslog on Mon Jul 22 09:54:01 PM +08 2024</p></td>
+<td><p style="font-size:12px;"><br>Sentinel Phase 2 Test<br><br>2.1 Last ingested Windows Event on 19/Jul/24 12:48:19<br><br>2.2 Last ingested Linux Syslog on Fri Jul 19 12:47:01 PM +08 2024<br><br>Sentinel Bonus Test<br><br>B.1 Last ingested Windows Event on 21/Jul/24 07:33:59<br><br>B.2 Last ingested Linux Syslog on Mon Jul 22 09:54:01 PM +08 2024</p></td>
 </tr>  
 </tbody>
 </table><br>
