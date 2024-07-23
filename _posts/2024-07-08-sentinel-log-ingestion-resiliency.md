@@ -60,19 +60,19 @@ This case study focuses on the `resiliency features` of the two native software 
 </tfoot>
 <tbody align="center">
 <tr>
-<td>187 (7 days 19 hours)</td>
+<td>Phase 1 Test<br><br>187 (7 days 19 hours)</td>
 <td><p style="font-size:12px;">Recovered last 48 hours Windows Event</p><img src="/assets/images/logingest/EventSixDaysMissing.png"></td>
 <td><p style="font-size:12px;">Missing two Syslog record</p><img src="/assets/images/logingest/SyslogTwoRecordsMissing.png"></td>
 <td><p style="font-size:12px;"><br>Blocked software agent network connetivity on 10/Jul/24 3:30PM<br><br>Resumed software agent network connectivity on 18/Jul/24 9:35AM<br><br>Windows Event first resumed ingestion on 18/Jul/24 10:45AM<br><br>Syslog first resumed ingestion on 10/Jul/24 6:00PM</p></td>
 </tr>
 <tr>
-<td>74 (3 days 2 hours)</td>
+<td>Phase 2 Test<br><br>74 (3 days 2 hours)</td>
 <td><p style="font-size:12px;">Recovered last 48 hours Windows Event</p><img src="/assets/images/logingest/RecoveredWindowsEvents.png"></td>
 <td><p style="font-size:12px;">Missing one Syslog record</p><img src="/assets/images/logingest/SyslogMissingOneRecord.png"></td>
 <td><p style="font-size:12px;"><br>Modified Event and Syslog message body with timestamp<br><br>Disconnected network cable on 19/Jul/24 12:48PM<br><br>Reconnected network cable on 22/Jul/24 14:58PM<br><br>Windows Event first resumed ingestion on 20/Jul/24 19:29:15<br><br>Syslog first resumed ingestion on Fri Jul 19 12:49:01 PM +08 2024</p></td>
 </tr>
 <tr>
-<td>10 (10 hours 36 minutes)</td>
+<td>Phase 3 Test<br><br>10 (10 hours 36 minutes)</td>
 <td><p style="font-size:12px;">Resumed from last ingested Event, 100% recovered</p><img src="/assets/images/logingest/RestartedAgentIngestionResult.png"></td>
 <td><p style="font-size:12px;">Resumed from last ingested Syslog, 100% recovered</p><img src="/assets/images/logingest/RecoveredWindowsEvents.png"></td>
 <td><p style="font-size:12px;"><br>Disconnected network cable on 22/Jul/24 21:55PM<br><br>Reconnected network cable on 23/Jul/24 08:31AM<br><br>Windows Event first resumed ingestion on 21/Jul/24 07:34:01AM - 100% recovered<br><br>Syslog first resumed ingestion on Mon Jul 22 09:55:01 PM +08 2024 - 100% recovered</p></td>
