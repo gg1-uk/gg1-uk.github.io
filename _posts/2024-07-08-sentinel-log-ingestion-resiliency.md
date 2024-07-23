@@ -53,8 +53,8 @@ This case study focuses on the `resiliency features` of the two native software 
 <tfoot>
 <tr>
 <td colspan="4" align="left">
-<div class="links"><a class="active" href="javascript:alert('1st and 2nd phases of tests completed as of 18 and 22 July 2024!\n\nBonus test in progress ETA 23 July 2024!'
-);">Survivability tests completed.</a></div>
+<div class="links"><a class="active" href="javascript:alert('\n1st and 2nd phases of tests completed as of 18 and 22 July 2024!\n\nPhase 3 test completed at 23 July 2024!'
+);">Survivability Tests Completed</a></div>
 </td>
 </tr>
 </tfoot>
@@ -67,15 +67,15 @@ This case study focuses on the `resiliency features` of the two native software 
 </tr>
 <tr>
 <td>74 (3 days 2 hours)</td>
-<td><p style="font-size:12px;">Recovered last 48 hours Windows Event</p><img src="/assets/images/logingest/RecoveredWindowsEvent.png"></td>
+<td><p style="font-size:12px;">Recovered last 48 hours Windows Event</p><img src="/assets/images/logingest/RecoveredWindowsEvents.png"></td>
 <td><p style="font-size:12px;">Missing one Syslog record</p><img src="/assets/images/logingest/SyslogMissingOneRecord.png"></td>
 <td><p style="font-size:12px;"><br>Modified Event and Syslog message body with timestamp<br><br>Disconnected network cable on 19/Jul/24 12:48PM<br><br>Reconnected network cable on 22/Jul/24 14:58PM<br><br>Windows Event first resumed ingestion on 20/Jul/24 19:29:15<br><br>Syslog first resumed ingestion on Fri Jul 19 12:49:01 PM +08 2024</p></td>
 </tr>
 <tr>
-<td>24 (1 day)</td>
-<td><p style="font-size:12px;"></p></td>
-<td><p style="font-size:12px;"></p></td>
-<td><p style="font-size:12px;"><br>Disconnected network cable on 22/Jul/24 21:55PM<br><br>Reconnected network cable on<br><br>Windows Event first resumed ingestion on<br><br>Syslog first resumed ingestion on</p></td>
+<td>10 (10 hours 36 minutes)</td>
+<td><p style="font-size:12px;">Resumed from last ingested Event, 100% recovered</p><img src="/assets/images/logingest/RestartedAgentIngestionResult.png"></td>
+<td><p style="font-size:12px;">Resumed from last ingested Syslog, 100% recovered</p><img src="/assets/images/logingest/RecoveredWindowsEvents.png"></td>
+<td><p style="font-size:12px;"><br>Disconnected network cable on 22/Jul/24 21:55PM<br><br>Reconnected network cable on 23/Jul/24 08:31AM<br><br>Windows Event first resumed ingestion on 21/Jul/24 07:34:01AM - 100% recovered<br><br>Syslog first resumed ingestion on Mon Jul 22 09:55:01 PM +08 2024 - 100% recovered</p></td>
 </tr>
 </tbody>
 </table><br>
@@ -93,7 +93,7 @@ This case study focuses on the `resiliency features` of the two native software 
 <tfoot>
 <tr>
 <td colspan="4" align="left">
-<div class="links"><a class="active" href="javascript:alert('Garage always in innovating mode!');">Upgrading in progress...</a></div>
+<div class="links"><a class="active" href="javascript:alert('\nGarage always in innovating mode!');">Upgrading In Progress</a></div>
 </td>
 </tr>
 </tfoot>
@@ -127,17 +127,18 @@ This case study focuses on the `resiliency features` of the two native software 
 <td><p style="font-size:12px;">Linux Data Collection Rule</p><img src="/assets/images/logingest/AzureDCRLinux.png"></td>
 <td><p style="font-size:12px;">Windows Hosts File Prevent Outbound Azure Agent Traffic</p><img src="/assets/images/logingest/WindowsHostsFileBlockAccess.png"></td>
 <td><p style="font-size:12px;">Linux Host File Prevent Outbound Azure Agent Traffic</p><img src="/assets/images/logingest/LinuxHostsFileBlockAccess.png"></td>
-<td><p style="font-size:12px;"><br>Sentinel Phase 2 Test<br><br>2.1 Last ingested Windows Event on 19/Jul/24 12:48:19<br><br>2.2 Last ingested Linux Syslog on Fri Jul 19 12:47:01 PM +08 2024<br><br>Sentinel Bonus Test<br><br>B.1 Last ingested Windows Event on 21/Jul/24 07:33:59<br><br>B.2 Last ingested Linux Syslog on Mon Jul 22 09:54:01 PM +08 2024</p></td>
+<td><p style="font-size:12px;"><br>Sentinel Phase 2 Test<br><br>2.1 Last ingested Windows Event on 19/Jul/24 12:48:19<br><br>2.2 Last ingested Linux Syslog on Fri Jul 19 12:47:01 PM +08 2024<br><br>Sentinel Phase 3 Test<br><br>3.1 Last ingested Windows Event on 21/Jul/24 07:33:59<br><br>3.2 Last ingested Linux Syslog on Mon Jul 22 09:54:01 PM +08 2024</p></td>
 </tr>  
 </tbody>
 </table><br>
 
 ### Conclusion
-The two tests conducted from 10 July to 22 July provide consistent results below.
+The three phases of tests spread across two weeks, which conducted from 10 July to 23 July in 2024 produced pattern of results below.
 
-8.1 Windows Azure Connected Machine Agent is capable to recover a maximum of last 24 hours Windows Event once network connectivity resumed and retry counter/polling interval reset e.g., 4/8/12/... hours.
-  + Perhaps, a restart of Azure Connected Machine Agent is able to resumed Windows Event reingestion immediately after restarted rather than waiting for the retry counter/polling interval reset?
+8.1 Windows Azure Connected Machine Agent is capable to recover a maximum of last 24 hours Windows Event once network connectivity resumed and retry counter/polling interval reset every 8.5 hours.
+  + A manual restart of Azure Connected Machine Agent is able to resume Windows Event reingestion rather than waiting for the retry counter/polling interval reset and reattempt. It has proven works and managed to resumed log retransmission from where it last ingested as per Phase 3 test result, which fully reingested as long as the Windows Event timestamp falls between last 24 hours.
 
-8.2 Linux Azure Connected Machine Agent is capable to recover almost 99.99% Syslog records (with missing 1 record during the moment - one second interval - when network downtime hits - refer to Phase 2 test result for detail).
-  + Bear in mind how long the Syslog server's storage capacity is able to keep the Syslog messages in queue for the period of network connectivity downtime and remember to perform a sanity check for any missing Syslogs record(s) - one second internal - for necessary manual reingestion if applicable?
+8.2 Linux Azure Connected Machine Agent is capable to recover almost 99.99% Syslog records (with 1 missing Syslog record during the one minute interval when network connection failure hits - refer to Phase 2 test result for detail).
+  + Note how long the Syslog messages can be kept in queue (for the whole period of network connectivity failure) depends on Syslog server's storage capacity, it's recommended to perform a sanity check for any missing Syslogs record(s) at least for the first one minute internal when network connection downtime hits and perform a manual reingestion if necessary. Despite Phase 3 test result proven and recovered 100% Syslog records, it's still recommended to check for any missing Syslog record (s) during the network connectivity downtime as a one minute rule.
 
+All in all, it's strongly recommended to have the redundance and resilience capabilities in the network connectivities implementation between on-premises and Sentinel. However, in the event of all failures (touch woods), we are prepared and aware what to lookout for symptoms and action to achieve a 100% recovery plan.
