@@ -137,7 +137,7 @@ The three phases of tests spread across two weeks, which conducted from 10 July 
 
 8.1 Windows Azure Connected Machine Agent is capable to recover a maximum of last 24 hours Windows Event once network connectivity resumed and retry counter/polling interval reset every 8.5 hours.
   + A manual restart of Azure Connected Machine Agent is able to resume Windows Event reingestion rather than waiting for the retry counter/polling interval reset and reattempt
-  + It has proven works and managed to resumed log retransmission from where it last ingested as per Phase 3 test result, which fully reingested as long as the Windows Event timestamp falls between last 24 hours
+  + It has proven works and managed to resumed log retransmission from where it last stopped as per Phase 3 test result, which fully reingested as long as the Windows Event timestamp falls between last 24 hours
 
 8.2 Linux Azure Connected Machine Agent is capable to recover almost 99.99% Syslog records (with 1 missing Syslog record during the one minute interval when network connection failure hits - refer to Phase 2 test result for detail).
   + Note how long the Syslog messages can be kept in queue (for the whole period of network connectivity failure) depends on Syslog server's storage capacity, it's recommended to perform a sanity check for any missing Syslogs record(s) at least for the first one minute internal when network connection downtime hits and perform a manual reingestion if necessary
