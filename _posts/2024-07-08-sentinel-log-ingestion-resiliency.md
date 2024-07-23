@@ -54,7 +54,7 @@ This case study focuses on the `resiliency features` of the two native software 
 <tfoot>
 <tr>
 <td colspan="4" align="left">
-<div class="links"><a class="active" href="javascript:alert('\n1st and 2nd phases of tests completed as of 18 and 22 July 2024!\n\nPhase 3 test completed at 23 July 2024!'
+<div class="links"><a class="active" href="javascript:alert('\n1st and 2nd phases of tests completed as of 18 and 22 July 2024!\n\nPhase 3 test completed on 23 July 2024!'
 );">Survivability Tests Completed</a></div>
 </td>
 </tr>
