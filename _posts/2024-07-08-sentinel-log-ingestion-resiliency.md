@@ -21,7 +21,7 @@ This case study focuses on the `resiliency features` of the two native software 
 
 ### Greener lab
 > An eco-friendly way, a nano box was powered-on alongsides 6-month licensed Windows Server 2019 Standard with Hyper-V virtualized Ubuntu Server 22.04.4 LTS up and running. This test aimed to survive target 3 to 7 days long 24x7 uptimes with minimum carbon emisson and minimize risk of surging power utility bill at home ;)
-<img src="/assets/images/logingest/greenerlab.png">
+<img src="/assets/images/logingest/thegreenerlab.png">
 
 ### Gears up
 4.1 Windows Server 2019 Standard with Azure Connected Machine Agent<br>
