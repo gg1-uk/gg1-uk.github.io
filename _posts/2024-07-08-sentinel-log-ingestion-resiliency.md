@@ -14,9 +14,9 @@ Often time, we are hearing from our client on topic vis-a-vis know-how addressin
 <p style="font-size:16px; font-style:italic;">Read: 3mins, watch: 10mins, updated 4-Aug-24 9:13pm live.</p>
 
 ### Ingestion Survivability
-This case study focuses on the `resiliency features` of the two native software agents purpose-built to handle ingestion of the security logs from on-premises operating systems to Microsoft Sentinel, which attesting the robustness of `retry mechanism` during temporary or prolong network connectivity downtime.
+This case study focuses on the `resiliency features` testing of the two native software agents purpose-built to handle the security logs ingestion from on-premises operating systems to Microsoft Sentinel, which attesting its robustness of `retry mechanism` during temporary or prolong network connectivity downtime.
 
-This is a valid and crucial concerns for client as part of the architectural resiliency design and risk considerations, all in all ensuring there is no loss of security logs in the event of network connection failure.
+In general, this is a valid and crucial concern ensuring there is no loss of security logs in the event of network connection failure during the ingestion. It serves as a guiding principle for a robust and resilient architectural design.
 
 ### Overall Architecture
 Overview of Sentinel log ingestion architecture.
