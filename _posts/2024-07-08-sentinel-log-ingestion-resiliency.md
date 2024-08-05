@@ -11,7 +11,7 @@ toc: true
 ---
 
 Often time, we are hearing from our client on topic vis-a-vis know-how addressing security log ingestion capable of surviving intermittent or periodic network connectivity failure.
-<p style="font-size:16px; font-style:italic;">Read: 3mins, watch: 10mins, updated 4-Aug-24 9:13pm live.</p>
+<p style="font-size:16px; font-style:italic;">Read: 5mins, watch: 10mins, updated 4-Aug-24 9:13pm live.</p>
 
 ### Ingestion Survivability
 This case study focuses on the `resiliency features` testing of the two native software agents purpose-built to handle the security logs ingestion from on-premises operating systems to Microsoft Sentinel, which attesting its robustness of `retry mechanism` during temporary or prolong network connectivity downtime.
