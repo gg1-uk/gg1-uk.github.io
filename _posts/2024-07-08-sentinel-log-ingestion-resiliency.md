@@ -14,14 +14,14 @@ Often time, we are hearing from our client on topic vis-a-vis know-how addressin
 <p style="font-size:16px; font-style:italic;">Read: 3mins, watch: 10mins, updated 4-Aug-24 9:13pm live.</p>
 
 ### Ingestion Survivability
-This is a valid and crucial concerns for client as part of the architectural resiliency design and risk considerations, all in all ensuring there is no loss of security logs in the event of network connection failure.
-
 This case study focuses on the `resiliency features` of the two native software agents purpose-built to handle ingestion of the security logs from on-premises operating systems to Microsoft Sentinel, which attesting the robustness of `retry mechanism` during temporary or prolong network connectivity downtime.
 
-### Ingestion Architecture
+This is a valid and crucial concerns for client as part of the architectural resiliency design and risk considerations, all in all ensuring there is no loss of security logs in the event of network connection failure.
+
+### Overall Architecture
 Overview of Sentinel log ingestion architecture.
 <img src="/assets/images/logingest/Sentinel_Log_Ingestion_Resiliency_Final.png"><br>
-Download original diagram at <a href="/assets/images/logingest/Sentinel_Log_Ingestion_Resiliency_Final.drawio">here</a>.
+<p style="font-size:12px;">Download original diagram at <a href="/assets/images/logingest/Sentinel_Log_Ingestion_Resiliency_Final.drawio">here</a>.</p>
 
 ### Greener lab
 > An eco-friendly way, a nano box was powered-on alongsides 6-month licensed Windows Server 2019 Standard with Hyper-V virtualized Ubuntu Server 22.04.4 LTS up and running. This test aimed to survive target 3 to 7 days long 24x7 uptimes with minimum carbon emisson and minimize risk of surging power utility bill at home ;)
