@@ -21,7 +21,8 @@ This case study focuses on the `resiliency features` of the two native software 
 
 ### Ingestion Architecture
 Overview of Sentinel log ingestion architecture.
-<img src="/assets/images/logingest/Sentinel_Log_Ingestion_Resiliency.png">
+<img src="/assets/images/logingest/Sentinel_Log_Ingestion_Resiliency_Final.png"><br>
+Download original diagram at <a href="/assets/images/logingest/Sentinel_Log_Ingestion_Resiliency_Final.drawio">here</a>.
 
 ### Greener lab
 > An eco-friendly way, a nano box was powered-on alongsides 6-month licensed Windows Server 2019 Standard with Hyper-V virtualized Ubuntu Server 22.04.4 LTS up and running. This test aimed to survive target 3 to 7 days long 24x7 uptimes with minimum carbon emisson and minimize risk of surging power utility bill at home ;)
