@@ -3,8 +3,8 @@ MAINTAINER docker@ekito.fr
 
 RUN apt-get update && apt-get -y install cron
 
-# Copy hello-cron file to the cron.d directory
-COPY hello-cron /etc/cron.d/exmdr-cron
+# Copy exmdr-cron file to the cron.d directory
+COPY exmdr-cron /etc/cron.d/exmdr-cron
  
 # Give execution rights on the cron job
 RUN chmod 0644 /etc/cron.d/exmdr-cron
